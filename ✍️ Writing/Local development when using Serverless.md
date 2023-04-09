@@ -1,0 +1,7 @@
+When you start your career building applications for the web, we were told you need to have a local development environment on your own machine and you do your work against that environment before pushing to your code repository.
+
+- when we first started building websites, we had remote machines that were specialized in serving our application, that was impossible to replicate locally. 100% uptime was unnecessary also, so we just did our editing directly at the remote server. why not? it was easier to do
+- however, after a few years, we now need to make multiple changes per day, and the website must not go down if we can avoid it. editing directly on production became scary. however, web infrastructure also evolved so now it was simpler to replicate the same environment locally. which mean we could test everything on our own machine before deploying it.
+- however, apps became more complex; which demanded even more complex hardware. it was no longer possible to have the same environment locally. this is where the staging / dev environments started.
+
+TLDR: We used local testing because testing against production became too dangerous,tried to replicate production locally and failed miserably to today where we are, essentially, [still testing against production](https://www.honeycomb.io/blog/yes-i-test-in-production-and-so-do-you/)

@@ -1,0 +1,1 @@
+![[where-to-put-react-state.png]]

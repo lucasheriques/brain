@@ -1,0 +1,2 @@
+
+Last 5-10 minutes of the interview, you usually have some time to ask questions. It's good to go with at least 3 planned questions. But, if you have more time, ask "Is there any thing on this interview that I could have done better?".

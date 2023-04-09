@@ -1,0 +1,1 @@
+Prefer to always use form `onSubmit` instead of binding the event to the button `onClick`, since the user has other ways to send the form as well (with Enter for instance).

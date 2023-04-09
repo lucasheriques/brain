@@ -1,0 +1,1 @@
+It's a bundler, which is the main tool to produce a production build.
