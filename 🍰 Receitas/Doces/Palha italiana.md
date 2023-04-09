@@ -1,4 +1,4 @@
-1 lata leite condensadora 
+x`1 lata leite condensadora 
 2 colheres sopa creme de leite
 2 colheres de sopa de manteiga sem sal
 2 colheres de sopa de chocolate em pó 50% 
