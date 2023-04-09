@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "99075c7fe2029bdb",
+        "id": "3f3f93c4b5bd9b68",
         "type": "tabs",
         "children": [
           {
-            "id": "f6dc9a0dfaeeb061",
+            "id": "c8b5ea29055cbaaa",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -120,30 +120,38 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "95d947050879c1f7",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "b487829ef28c7756",
+  "active": "c8b5ea29055cbaaa",
   "lastOpenFiles": [
+    "🧠 Brain Dump/Brain Dump.md",
     "2023-04-08.md",
     "Untitled.canvas",
-    "🧠 Brain Dump/Brain Dump.md",
     "📓 Projects/Index.md",
     "📓 Projects/Finance Control App/Piggy - Overview.md",
     "📚 Books/Backlog.md",
