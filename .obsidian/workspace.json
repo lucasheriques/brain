@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87bf6d66debafc36",
+        "id": "99075c7fe2029bdb",
         "type": "tabs",
         "children": [
           {
-            "id": "867a86f820ece0d4",
+            "id": "f6dc9a0dfaeeb061",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -141,6 +141,22 @@
   },
   "active": "b487829ef28c7756",
   "lastOpenFiles": [
+    "2023-04-08.md",
+    "Untitled.canvas",
+    "🧠 Brain Dump/Brain Dump.md",
+    "📓 Projects/Index.md",
+    "📓 Projects/Finance Control App/Piggy - Overview.md",
+    "📚 Books/Backlog.md",
+    "📚 Books/The Coding Career Handbook.md",
+    "📚 Books/Designing Data Intensive Applications.md",
+    "🖥️ Software Engineering/System Design Interview.md",
+    "🖥️ Software Engineering/7 interviews 7 offers (senior engineer at Netflix).md",
+    "🖥️ Software Engineering/Resources.md",
+    "🖥️ Software Engineering/Mac Setup Guide.md",
+    "🧠 Brain Dump/Overcoming Procrastination.md",
+    "👫 Momus/Momus.md",
+    "👫 Momus/poema momu.md",
+    "Docs and External Resources/Refactoring UI v1.0.2.pdf",
     "Docs and External Resources/interface-design-patterns-checklist-2022.pdf"
   ]
 }
