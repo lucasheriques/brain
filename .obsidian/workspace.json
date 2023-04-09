@@ -11,8 +11,12 @@
             "id": "c8b5ea29055cbaaa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🍰 Receitas/Salgadas/Pão de Frango ou Massa de Pizza.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🍰 Receitas/Salgadas/Pão de Frango ou Massa de Pizza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🍰 Receitas/Salgadas/Pão de Frango ou Massa de Pizza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🍰 Receitas/Salgadas/Pão de Frango ou Massa de Pizza.md"
+              }
             }
           },
           {
@@ -147,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8b5ea29055cbaaa",
+  "active": "b487829ef28c7756",
   "lastOpenFiles": [
     "🧠 Brain Dump/Brain Dump.md",
     "2023-04-08.md",
