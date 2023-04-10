@@ -51,9 +51,24 @@
               "state": {
                 "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
                 "viewState": {
-                  "x": -137.54935310003086,
-                  "y": -52.93870620006111,
+                  "x": 92.6411026729324,
+                  "y": -330.5213146321637,
                   "zoom": -0.541990649551153
+                }
+              }
+            }
+          },
+          {
+            "id": "a88db6b3cf549416",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
+                "viewState": {
+                  "x": 267.8991263940521,
+                  "y": -260.1000743494424,
+                  "zoom": -0.6547557967755747
                 }
               }
             }
@@ -64,14 +79,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/1 - Introduction.md",
+                "file": "🖥️ Software Engineering/Databases/Schema/1 - Introduction and Principles.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -207,10 +222,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a1313fe23f76d52",
+  "active": "a88db6b3cf549416",
   "lastOpenFiles": [
-    "🖥️ Software Engineering/Databases/Schema/1 - Introduction.md",
+    "🖥️ Software Engineering/Databases/Schema/2 - Integers.md",
     "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
+    "🖥️ Software Engineering/Databases/Schema/1 - Introduction and Principles.md",
     "🖥️ Software Engineering/Databases/Schema",
     "🖥️ Software Engineering/Databases/Untitled.md",
     "🖥️ Software Engineering/Databases/MySQL for App Developers/Schema.canvas",

@@ -4,7 +4,7 @@
 		{"type":"text","text":"**2. Indexes**","id":"d19727c0677ad4a0","x":-460,"y":50,"width":250,"height":60},
 		{"type":"text","text":"**3. Queries**","id":"6809a32086ae15c3","x":-460,"y":500,"width":250,"height":60},
 		{"type":"text","text":"**4. Examples**","id":"d9047d8a5cdf8590","x":-460,"y":940,"width":250,"height":60},
-		{"type":"file","file":"🖥️ Software Engineering/Databases/Schema/1 - Introduction.md","id":"baa7c35d9797e516","x":-40,"y":-630,"width":400,"height":400},
+		{"type":"file","file":"🖥️ Software Engineering/Databases/Schema/1 - Introduction and Principles.md","id":"baa7c35d9797e516","x":-40,"y":-630,"width":400,"height":400},
 		{"type":"text","text":" MySQL for Developers","id":"fb3977dc516b3607","x":-1180,"y":260,"width":250,"height":50}
 	],
 	"edges":[

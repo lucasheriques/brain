@@ -1,4 +1,4 @@
-**TLDR: Writing a schema is crucial and requires selecting small, simple, and honest data types. Schema designs matter because they affect database performance and indexing efficiency. Choosing a compact schema can improve index speed and efficiency, as well as make the database faster to access.**
+**TLDR: While schema design may not be the most glamorous aspect of database development, it's a crucial one that can significantly impact your database's performance. By following the three guiding principles of compactness, simplicity, and accuracy, you can create a schema that effectively reflects your data and enables fast data access and indexing.**
 
 This is the first opportuntity to set ourselves up to success or failure.
 
