@@ -30,9 +30,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e635cec5cb296db",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
+                "viewState": {
+                  "x": 2062.7768371488887,
+                  "y": -351.13026313121014,
+                  "zoom": -0.7017271666739305
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/4 - Strings.md",
+                "file": "🖥️ Software Engineering/Databases/Schema/5 - Binary strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/4 - Strings.md",
+                "file": "🖥️ Software Engineering/Databases/Schema/5 - Binary strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/4 - Strings.md"
+                "file": "🖥️ Software Engineering/Databases/Schema/5 - Binary strings.md"
               }
             }
           },
@@ -176,10 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62991100e81e4661",
+  "active": "7e635cec5cb296db",
   "lastOpenFiles": [
-    "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
+    "🖥️ Software Engineering/Databases/Schema/5 - Binary strings.md",
     "🖥️ Software Engineering/Databases/Schema/4 - Strings.md",
+    "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/Schema/3 - Decimals.md",
     "🖥️ Software Engineering/Databases/Schema/2 - Integers.md",
     "🖥️ Software Engineering/Databases/Schema/1 - Introduction and Principles.md",
