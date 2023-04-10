@@ -35,14 +35,11 @@
             "id": "7e635cec5cb296db",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
-                "viewState": {
-                  "x": 2062.7768371488887,
-                  "y": -351.13026313121014,
-                  "zoom": -0.7017271666739305
-                }
+                "file": "🖥️ Software Engineering/Databases/Schema/5 - Binary strings.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -193,8 +190,8 @@
   },
   "active": "7e635cec5cb296db",
   "lastOpenFiles": [
-    "🖥️ Software Engineering/Databases/Schema/5 - Binary strings.md",
     "🖥️ Software Engineering/Databases/Schema/4 - Strings.md",
+    "🖥️ Software Engineering/Databases/Schema/5 - Binary strings.md",
     "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/Schema/3 - Decimals.md",
     "🖥️ Software Engineering/Databases/Schema/2 - Integers.md",
@@ -227,7 +224,6 @@
     "🖥️ Software Engineering/Resources.md",
     "🖥️ Software Engineering/Mac Setup Guide.md",
     "🧠 Brain Dump/Overcoming Procrastination.md",
-    "👫 Momus/Momus.md",
     "Docs and External Resources/Refactoring UI v1.0.2.pdf",
     "Docs and External Resources/interface-design-patterns-checklist-2022.pdf"
   ]
