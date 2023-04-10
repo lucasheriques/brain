@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"b0bb08b861c394f3","x":530,"y":-629,"width":400,"height":400,"type":"file","file":"🖥️ Software Engineering/Databases/Schema/2 - Integers.md"},
+		{"id":"186fec25d378b1f7","x":1115,"y":-629,"width":400,"height":400,"type":"file","file":"🖥️ Software Engineering/Databases/Schema/3 - Decimals.md"},
+		{"type":"file","file":"🖥️ Software Engineering/Databases/Schema/2 - Integers.md","id":"b0bb08b861c394f3","x":530,"y":-629,"width":400,"height":400},
 		{"type":"text","text":"**1. Schema**\n\n","id":"87823720d7ceae66","x":-460,"y":-460,"width":250,"height":60},
 		{"type":"text","text":"**2. Indexes**","id":"d19727c0677ad4a0","x":-460,"y":50,"width":250,"height":60},
 		{"type":"text","text":"**3. Queries**","id":"6809a32086ae15c3","x":-460,"y":500,"width":250,"height":60},
@@ -14,6 +15,7 @@
 		{"id":"5b5f9c5d88f83cd6","fromNode":"fb3977dc516b3607","fromSide":"right","toNode":"d9047d8a5cdf8590","toSide":"left"},
 		{"id":"77aa05a5b45bb343","fromNode":"fb3977dc516b3607","fromSide":"right","toNode":"d19727c0677ad4a0","toSide":"left"},
 		{"id":"15e01efdd593f052","fromNode":"87823720d7ceae66","fromSide":"right","toNode":"baa7c35d9797e516","toSide":"left"},
-		{"id":"48f02dd057b72ee1","fromNode":"baa7c35d9797e516","fromSide":"right","toNode":"b0bb08b861c394f3","toSide":"left"}
+		{"id":"48f02dd057b72ee1","fromNode":"baa7c35d9797e516","fromSide":"right","toNode":"b0bb08b861c394f3","toSide":"left"},
+		{"id":"eb2600acc80ab810","fromNode":"b0bb08b861c394f3","fromSide":"right","toNode":"186fec25d378b1f7","toSide":"left"}
 	]
 }
