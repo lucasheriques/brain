@@ -62,14 +62,11 @@
             "id": "a88db6b3cf549416",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
-                "viewState": {
-                  "x": 267.8991263940521,
-                  "y": -260.1000743494424,
-                  "zoom": -0.6547557967755747
-                }
+                "file": "🖥️ Software Engineering/Databases/Schema/2 - Integers.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -152,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
+                "file": "🖥️ Software Engineering/Databases/Schema/2 - Integers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
+                "file": "🖥️ Software Engineering/Databases/Schema/2 - Integers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas"
+                "file": "🖥️ Software Engineering/Databases/Schema/2 - Integers.md"
               }
             }
           },
@@ -203,9 +200,17 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "ec43621ad6db329e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -224,8 +229,8 @@
   },
   "active": "a88db6b3cf549416",
   "lastOpenFiles": [
-    "🖥️ Software Engineering/Databases/Schema/2 - Integers.md",
     "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
+    "🖥️ Software Engineering/Databases/Schema/2 - Integers.md",
     "🖥️ Software Engineering/Databases/Schema/1 - Introduction and Principles.md",
     "🖥️ Software Engineering/Databases/Schema",
     "🖥️ Software Engineering/Databases/Untitled.md",
