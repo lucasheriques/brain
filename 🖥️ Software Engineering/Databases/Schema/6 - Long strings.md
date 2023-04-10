@@ -1,4 +1,4 @@
-**TLDR: `TEXT` and `BLOB` columns are useful data types in MySQL for storing large amounts of text and binary data. They have different variations available depending on how much data you need to store. While they have benefits in terms of storage, it's important to follow best practices to avoid potential issues with indexing, sorting and retrieval speed.**
+**TLDR:`TEXT` and `BLOB` columns are useful data types in MySQL for storing large amounts of text and binary data. They have different variations available depending on how much data you need to store. While they have benefits in terms of storage, it's important to follow best practices to avoid potential issues with indexing, sorting and retrieval speed.**
 
 5. `BLOB`: hold huges amount of characters data, but has no character set or collations.
 	1. `TINYBLOB`, `BLOB`, `MEDIUMBLOB`, `LONGBLOB`

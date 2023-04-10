@@ -47,14 +47,11 @@
             "id": "1c380f1774ddee89",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
-                "viewState": {
-                  "x": 138.11961092705008,
-                  "y": -187.83389602993873,
-                  "zoom": -0.7817318283116373
-                }
+                "file": "🖥️ Software Engineering/Databases/Schema/7 - Enums.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -137,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
+                "file": "🖥️ Software Engineering/Databases/Schema/7 - Enums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
+                "file": "🖥️ Software Engineering/Databases/Schema/7 - Enums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas"
+                "file": "🖥️ Software Engineering/Databases/Schema/7 - Enums.md"
               }
             }
           },
@@ -217,11 +214,11 @@
   },
   "active": "1c380f1774ddee89",
   "lastOpenFiles": [
+    "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/Schema/7 - Enums.md",
     "🖥️ Software Engineering/Databases/Schema/6 - Long strings.md",
     "🖥️ Software Engineering/Databases/Schema/5 - Binary strings.md",
     "🖥️ Software Engineering/Databases/Schema/4 - Strings.md",
-    "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/Schema/3 - Decimals.md",
     "🖥️ Software Engineering/Databases/Schema/2 - Integers.md",
     "🖥️ Software Engineering/Databases/Schema/1 - Introduction and Principles.md",
@@ -251,7 +248,6 @@
     "🖥️ Software Engineering/System Design Interview.md",
     "🖥️ Software Engineering/7 interviews 7 offers (senior engineer at Netflix).md",
     "🖥️ Software Engineering/Resources.md",
-    "🖥️ Software Engineering/Mac Setup Guide.md",
     "Docs and External Resources/Refactoring UI v1.0.2.pdf",
     "Docs and External Resources/interface-design-patterns-checklist-2022.pdf"
   ]
