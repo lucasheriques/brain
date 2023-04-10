@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62991100e81e4661",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖥️ Software Engineering/Databases/Schema/4 - Strings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/3 - Decimals.md",
+                "file": "🖥️ Software Engineering/Databases/Schema/4 - Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/3 - Decimals.md",
+                "file": "🖥️ Software Engineering/Databases/Schema/4 - Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/3 - Decimals.md"
+                "file": "🖥️ Software Engineering/Databases/Schema/4 - Strings.md"
               }
             }
           },
@@ -163,11 +176,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf05574fc2d18a8a",
+  "active": "62991100e81e4661",
   "lastOpenFiles": [
-    "🖥️ Software Engineering/Databases/Schema/2 - Integers.md",
-    "🖥️ Software Engineering/Databases/Schema/3 - Decimals.md",
     "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
+    "🖥️ Software Engineering/Databases/Schema/4 - Strings.md",
+    "🖥️ Software Engineering/Databases/Schema/3 - Decimals.md",
+    "🖥️ Software Engineering/Databases/Schema/2 - Integers.md",
     "🖥️ Software Engineering/Databases/Schema/1 - Introduction and Principles.md",
     "🍰 Receitas/Doces/Palha italiana.md",
     "🖥️ Software Engineering/Refactoring/Intro.md",
@@ -198,7 +212,6 @@
     "🖥️ Software Engineering/Mac Setup Guide.md",
     "🧠 Brain Dump/Overcoming Procrastination.md",
     "👫 Momus/Momus.md",
-    "👫 Momus/poema momu.md",
     "Docs and External Resources/Refactoring UI v1.0.2.pdf",
     "Docs and External Resources/interface-design-patterns-checklist-2022.pdf"
   ]
