@@ -23,14 +23,11 @@
             "id": "62991100e81e4661",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
-                "viewState": {
-                  "x": 352.5319255502211,
-                  "y": 53.71423740969732,
-                  "zoom": -1.1791730080972396
-                }
+                "file": "🖥️ Software Engineering/Databases/Schema/7 - Enums.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
+                "file": "🖥️ Software Engineering/Databases/Schema/7 - Enums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
+                "file": "🖥️ Software Engineering/Databases/Schema/7 - Enums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas"
+                "file": "🖥️ Software Engineering/Databases/Schema/7 - Enums.md"
               }
             }
           },
@@ -193,10 +190,10 @@
   },
   "active": "62991100e81e4661",
   "lastOpenFiles": [
+    "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/Untitled.md",
     "🖥️ Software Engineering/Databases/Schema/4 - Strings.md",
     "🖥️ Software Engineering/Databases/Schema/1 - Introduction and Principles.md",
-    "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
     "📚 Books/Backlog.md",
     "📚 Books/Designing Data Intensive Applications.md",
     "💡 Learning/Task Dump.md",
