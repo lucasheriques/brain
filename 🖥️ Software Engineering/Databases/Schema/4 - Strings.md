@@ -12,4 +12,3 @@ There are a bunch of different ways to store a string in MySQL. Here's a list of
 What matters when choosing `varchar` or `char`? Because of the underlying storage. If you declare that a column is fixed, that means that that column will always have that same number of characters.
 
 If you have a `char(100)`, column, but use it to store your name, "Lucas", in my case, that means MySQL will fill that to its storing 100 characters. On a variable length column, you're only going to store the needed bytes.
-
