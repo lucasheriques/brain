@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖥️ Software Engineering/React/Cool Libraries.md",
+                "file": "🖥️ Software Engineering/Databases/Schema/9 - JSON.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3312c7446a0f826",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖥️ Software Engineering/Databases/Schema/9 - JSON.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/React/Cool Libraries.md",
+                "file": "🖥️ Software Engineering/Databases/Schema/9 - JSON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/React/Cool Libraries.md",
+                "file": "🖥️ Software Engineering/Databases/Schema/9 - JSON.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/React/Cool Libraries.md"
+                "file": "🖥️ Software Engineering/Databases/Schema/9 - JSON.md"
               }
             }
           },
@@ -203,6 +215,8 @@
   "active": "2c92bcaa06c7b8f8",
   "lastOpenFiles": [
     "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
+    "🖥️ Software Engineering/Databases/Schema/9 - JSON.md",
+    "🖥️ Software Engineering/React/Cool Libraries.md",
     "🖥️ Software Engineering/Databases/Schema/8 - Dates.md",
     "🖥️ Software Engineering/Databases/Schema/6 - Long strings.md",
     "🖥️ Software Engineering/Databases/Schema/7 - Enums.md",
@@ -234,8 +248,6 @@
     "🧠 Brain Dump/Brain Dump.md",
     "2023-04-08.md",
     "Untitled.canvas",
-    "📓 Projects/Index.md",
-    "📓 Projects/Finance Control App/Piggy - Overview.md",
     "Docs and External Resources/Refactoring UI v1.0.2.pdf",
     "Docs and External Resources/interface-design-patterns-checklist-2022.pdf"
   ]

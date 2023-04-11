@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"9a1acbe1eaf9e865","x":-494,"y":2171,"width":400,"height":400,"type":"file","file":"🖥️ Software Engineering/Databases/Schema/8 - Dates.md"},
+		{"id":"db6a5f641a187fe1","x":-494,"y":2646,"width":400,"height":400,"type":"file","file":"🖥️ Software Engineering/Databases/Schema/9 - JSON.md"},
+		{"type":"file","file":"🖥️ Software Engineering/Databases/Schema/8 - Dates.md","id":"9a1acbe1eaf9e865","x":-494,"y":2171,"width":400,"height":400},
 		{"type":"file","file":"🖥️ Software Engineering/Databases/Schema/7 - Enums.md","id":"ee078d08cb55eb1c","x":-495,"y":1700,"width":400,"height":400},
 		{"type":"text","text":"**1. Schema**\n\n","id":"87823720d7ceae66","x":-420,"y":-1260,"width":250,"height":60},
 		{"type":"file","file":"🖥️ Software Engineering/Databases/Schema/1 - Introduction and Principles.md","id":"16cfa2fbea1f11ce","x":-496,"y":-1078,"width":400,"height":400},
@@ -26,6 +27,7 @@
 		{"id":"190a3519dd42c4e2","fromNode":"867875235e7e2fd5","fromSide":"bottom","toNode":"410a226e6f134781","toSide":"top"},
 		{"id":"79a7683c7d6f0c20","fromNode":"410a226e6f134781","fromSide":"bottom","toNode":"dbe463c36b57165e","toSide":"top"},
 		{"id":"a8c39c41dae09f30","fromNode":"dbe463c36b57165e","fromSide":"bottom","toNode":"ee078d08cb55eb1c","toSide":"top"},
-		{"id":"ed837d92148705a2","fromNode":"ee078d08cb55eb1c","fromSide":"bottom","toNode":"9a1acbe1eaf9e865","toSide":"top"}
+		{"id":"ed837d92148705a2","fromNode":"ee078d08cb55eb1c","fromSide":"bottom","toNode":"9a1acbe1eaf9e865","toSide":"top"},
+		{"id":"b9aee04258c594aa","fromNode":"9a1acbe1eaf9e865","fromSide":"bottom","toNode":"db6a5f641a187fe1","toSide":"top"}
 	]
 }
