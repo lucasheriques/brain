@@ -30,9 +30,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e13121ac4bf19ea2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
+                "viewState": {
+                  "x": 522.4791026512576,
+                  "y": 2603.4658871515985,
+                  "zoom": -1.964756083952352
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/11 - Generated columns.md",
+                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/11 - Generated columns.md",
+                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/11 - Generated columns.md"
+                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas"
               }
             }
           },
@@ -176,27 +191,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9c90c813cb9580a",
+  "active": "e13121ac4bf19ea2",
   "lastOpenFiles": [
-    "🖥️ Software Engineering/Databases/Schema/9 - JSON.md",
+    "🖥️ Software Engineering/Databases/Schema/12 - Schema migrations.md",
     "🖥️ Software Engineering/Databases/Schema/11 - Generated columns.md",
+    "🖥️ Software Engineering/Databases/Schema/3 - Decimals.md",
+    "🖥️ Software Engineering/Databases/Schema/2 - Integers.md",
+    "🖥️ Software Engineering/Databases/Schema/1 - Introduction and Principles.md",
+    "🖥️ Software Engineering/Databases/Schema/9 - JSON.md",
     "🖥️ Software Engineering/Databases/Schema/10 - Unexpected types.md",
     "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
-    "🖥️ Software Engineering/Databases/Schema/3 - Decimals.md",
     "🖥️ Software Engineering/Databases/Schema/7 - Enums.md",
     "🖥️ Software Engineering/Databases/Schema/8 - Dates.md",
     "🖥️ Software Engineering/React/Cool Libraries.md",
     "🖥️ Software Engineering/Databases/Schema/6 - Long strings.md",
     "🖥️ Software Engineering/Databases/Untitled.md",
     "🖥️ Software Engineering/Databases/Schema/4 - Strings.md",
-    "🖥️ Software Engineering/Databases/Schema/1 - Introduction and Principles.md",
     "📚 Books/Backlog.md",
     "📚 Books/Designing Data Intensive Applications.md",
     "💡 Learning/Task Dump.md",
     "💡 Learning/Hi.md",
     "💡 Learning/Backlog.md",
     "🖥️ Software Engineering/Databases/Schema/5 - Binary strings.md",
-    "🖥️ Software Engineering/Databases/Schema/2 - Integers.md",
     "🍰 Receitas/Doces/Palha italiana.md",
     "🖥️ Software Engineering/Refactoring/Intro.md",
     "🖥️ Software Engineering/Refactoring/1 - Long Methods.md",
@@ -211,7 +227,6 @@
     "🖥️ Software Engineering/Refactoring",
     "Untitled.md",
     "🍰 Receitas/Salgadas/Pão de Frango ou Massa de Pizza.md",
-    "🧠 Brain Dump/Brain Dump.md",
     "Untitled.canvas",
     "Docs and External Resources/Refactoring UI v1.0.2.pdf",
     "Docs and External Resources/interface-design-patterns-checklist-2022.pdf"
