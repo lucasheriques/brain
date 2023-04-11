@@ -35,14 +35,11 @@
             "id": "e13121ac4bf19ea2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
-                "viewState": {
-                  "x": 522.4791026512576,
-                  "y": 2603.4658871515985,
-                  "zoom": -1.964756083952352
-                }
+                "file": "🖥️ Software Engineering/Databases/Schema/12 - Schema migrations.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
+                "file": "🖥️ Software Engineering/Databases/Schema/12 - Schema migrations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
+                "file": "🖥️ Software Engineering/Databases/Schema/12 - Schema migrations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL for Devs.canvas"
+                "file": "🖥️ Software Engineering/Databases/Schema/12 - Schema migrations.md"
               }
             }
           },
@@ -193,6 +190,7 @@
   },
   "active": "e13121ac4bf19ea2",
   "lastOpenFiles": [
+    "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/Schema/12 - Schema migrations.md",
     "🖥️ Software Engineering/Databases/Schema/11 - Generated columns.md",
     "🖥️ Software Engineering/Databases/Schema/3 - Decimals.md",
@@ -200,7 +198,6 @@
     "🖥️ Software Engineering/Databases/Schema/1 - Introduction and Principles.md",
     "🖥️ Software Engineering/Databases/Schema/9 - JSON.md",
     "🖥️ Software Engineering/Databases/Schema/10 - Unexpected types.md",
-    "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/Schema/7 - Enums.md",
     "🖥️ Software Engineering/Databases/Schema/8 - Dates.md",
     "🖥️ Software Engineering/React/Cool Libraries.md",
@@ -226,7 +223,6 @@
     "🖥️ Software Engineering/Databases",
     "🖥️ Software Engineering/Refactoring",
     "Untitled.md",
-    "🍰 Receitas/Salgadas/Pão de Frango ou Massa de Pizza.md",
     "Untitled.canvas",
     "Docs and External Resources/Refactoring UI v1.0.2.pdf",
     "Docs and External Resources/interface-design-patterns-checklist-2022.pdf"
