@@ -18,7 +18,7 @@
 		{"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md","id":"dbe463c36b57165e","x":-495,"y":1240,"width":400,"height":400},
 		{"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Schema/10 - Unexpected types.md","id":"01b9e994fa5a6810","x":-494,"y":3100,"width":400,"height":400},
 		{"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Schema/11 - Generated columns.md","id":"95ac5b9191dff1d6","x":-494,"y":3566,"width":400,"height":400},
-		{"id":"4b960cd4455f8cd6","x":165,"y":-1159,"width":400,"height":400,"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Indexes/1 - Introduction.md"},
+		{"id":"4b960cd4455f8cd6","x":165,"y":-1159,"width":400,"height":400,"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Indexes/1 - Introduction to Indexes.md"},
 		{"id":"0c58371e10777f4f","x":165,"y":-706,"width":400,"height":400,"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Indexes/2 - B+ tress.md"},
 		{"id":"036cc3e00e1f538d","x":165,"y":-242,"width":400,"height":400,"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Indexes/3 - Primary keys.md"},
 		{"id":"f18edfe10c41abb2","x":164,"y":226,"width":400,"height":400,"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Indexes/4 - Secondary keys.md"},
