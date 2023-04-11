@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"db7d010eea955c11","x":-494,"y":4039,"width":400,"height":400,"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Schema/12 - Schema migrations.md"},
+		{"id":"b7371b6244fcc15c","x":164,"y":1628,"width":400,"height":400,"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Indexes/7 - Index selectivity.md"},
+		{"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Schema/12 - Schema migrations.md","id":"db7d010eea955c11","x":-494,"y":4039,"width":400,"height":400},
 		{"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Schema/9 - JSON.md","id":"db6a5f641a187fe1","x":-494,"y":2646,"width":400,"height":400},
 		{"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Schema/8 - Dates.md","id":"9a1acbe1eaf9e865","x":-494,"y":2171,"width":400,"height":400},
 		{"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Schema/7 - Enums.md","id":"ee078d08cb55eb1c","x":-495,"y":1700,"width":400,"height":400},
@@ -16,7 +17,13 @@
 		{"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Schema/5 - Binary strings.md","id":"410a226e6f134781","x":-495,"y":800,"width":400,"height":400},
 		{"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md","id":"dbe463c36b57165e","x":-495,"y":1240,"width":400,"height":400},
 		{"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Schema/10 - Unexpected types.md","id":"01b9e994fa5a6810","x":-494,"y":3100,"width":400,"height":400},
-		{"id":"95ac5b9191dff1d6","x":-494,"y":3566,"width":400,"height":400,"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Schema/11 - Generated columns.md"}
+		{"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Schema/11 - Generated columns.md","id":"95ac5b9191dff1d6","x":-494,"y":3566,"width":400,"height":400},
+		{"id":"4b960cd4455f8cd6","x":165,"y":-1159,"width":400,"height":400,"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Indexes/1 - Introduction.md"},
+		{"id":"0c58371e10777f4f","x":165,"y":-706,"width":400,"height":400,"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Indexes/2 - B+ tress.md"},
+		{"id":"036cc3e00e1f538d","x":165,"y":-242,"width":400,"height":400,"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Indexes/3 - Primary keys.md"},
+		{"id":"f18edfe10c41abb2","x":164,"y":226,"width":400,"height":400,"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Indexes/4 - Secondary keys.md"},
+		{"id":"86763106c1486292","x":164,"y":708,"width":400,"height":400,"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Indexes/5 - Primary key data types.md"},
+		{"id":"2f16aabaae0fb76c","x":164,"y":1164,"width":400,"height":400,"type":"file","file":"🖥️ Software Engineering/Databases/MySQL/Indexes/6 - Where to add indexes.md"}
 	],
 	"edges":[
 		{"id":"f7980aff9d010105","fromNode":"fb3977dc516b3607","fromSide":"bottom","toNode":"87823720d7ceae66","toSide":"top"},
@@ -34,6 +41,13 @@
 		{"id":"b9aee04258c594aa","fromNode":"9a1acbe1eaf9e865","fromSide":"bottom","toNode":"db6a5f641a187fe1","toSide":"top"},
 		{"id":"d4500074587f3b30","fromNode":"db6a5f641a187fe1","fromSide":"bottom","toNode":"01b9e994fa5a6810","toSide":"top"},
 		{"id":"aedcc3714933d76c","fromNode":"01b9e994fa5a6810","fromSide":"bottom","toNode":"95ac5b9191dff1d6","toSide":"top"},
-		{"id":"62347df38d927423","fromNode":"95ac5b9191dff1d6","fromSide":"bottom","toNode":"db7d010eea955c11","toSide":"top"}
+		{"id":"62347df38d927423","fromNode":"95ac5b9191dff1d6","fromSide":"bottom","toNode":"db7d010eea955c11","toSide":"top"},
+		{"id":"ef2f5abbe6f6a8e5","fromNode":"d19727c0677ad4a0","fromSide":"bottom","toNode":"4b960cd4455f8cd6","toSide":"top"},
+		{"id":"80aa00c22ee89acc","fromNode":"4b960cd4455f8cd6","fromSide":"bottom","toNode":"0c58371e10777f4f","toSide":"top"},
+		{"id":"7b5c3f58f1c6e3aa","fromNode":"0c58371e10777f4f","fromSide":"bottom","toNode":"036cc3e00e1f538d","toSide":"top"},
+		{"id":"dd07b3e0f2801455","fromNode":"036cc3e00e1f538d","fromSide":"bottom","toNode":"f18edfe10c41abb2","toSide":"top"},
+		{"id":"d77012471a4a5323","fromNode":"f18edfe10c41abb2","fromSide":"bottom","toNode":"86763106c1486292","toSide":"top"},
+		{"id":"5a49e1a749fd52c9","fromNode":"86763106c1486292","fromSide":"bottom","toNode":"2f16aabaae0fb76c","toSide":"top"},
+		{"id":"8c9b9a96290a2e91","fromNode":"2f16aabaae0fb76c","fromSide":"bottom","toNode":"b7371b6244fcc15c","toSide":"top"}
 	]
 }
