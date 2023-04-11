@@ -23,14 +23,11 @@
             "id": "e9c90c813cb9580a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
-                "viewState": {
-                  "x": -95.46901302620824,
-                  "y": 3541.079862940594,
-                  "zoom": -0.5353470990491782
-                }
+                "file": "🖥️ Software Engineering/Databases/MySQL/Schema/12 - Schema migrations.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
+                "file": "🖥️ Software Engineering/Databases/MySQL/Schema/12 - Schema migrations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
+                "file": "🖥️ Software Engineering/Databases/MySQL/Schema/12 - Schema migrations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas"
+                "file": "🖥️ Software Engineering/Databases/MySQL/Schema/12 - Schema migrations.md"
               }
             }
           },
@@ -181,9 +178,9 @@
   },
   "active": "e9c90c813cb9580a",
   "lastOpenFiles": [
+    "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/MySQL/Schema/11 - Generated columns.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/4 - Strings.md",
-    "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/MySQL/Schema/12 - Schema migrations.md",
     "🖥️ Software Engineering/Databases/MySQL",
     "🖥️ Software Engineering/Databases/MySQL/Schema/3 - Decimals.md",
