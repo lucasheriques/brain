@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/10 - Unexpected types.md",
+                "file": "🖥️ Software Engineering/Databases/Schema/9 - JSON.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9c90c813cb9580a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖥️ Software Engineering/Databases/Schema/11 - Generated columns.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/10 - Unexpected types.md",
+                "file": "🖥️ Software Engineering/Databases/Schema/11 - Generated columns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/10 - Unexpected types.md",
+                "file": "🖥️ Software Engineering/Databases/Schema/11 - Generated columns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/10 - Unexpected types.md"
+                "file": "🖥️ Software Engineering/Databases/Schema/11 - Generated columns.md"
               }
             }
           },
@@ -163,14 +176,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3312c7446a0f826",
+  "active": "e9c90c813cb9580a",
   "lastOpenFiles": [
-    "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/Schema/9 - JSON.md",
+    "🖥️ Software Engineering/Databases/Schema/11 - Generated columns.md",
+    "🖥️ Software Engineering/Databases/Schema/10 - Unexpected types.md",
+    "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/Schema/3 - Decimals.md",
     "🖥️ Software Engineering/Databases/Schema/7 - Enums.md",
     "🖥️ Software Engineering/Databases/Schema/8 - Dates.md",
-    "🖥️ Software Engineering/Databases/Schema/10 - Unexpected types.md",
     "🖥️ Software Engineering/React/Cool Libraries.md",
     "🖥️ Software Engineering/Databases/Schema/6 - Long strings.md",
     "🖥️ Software Engineering/Databases/Untitled.md",
