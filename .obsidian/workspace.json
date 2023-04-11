@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf05574fc2d18a8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/3 - Decimals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62991100e81e4661",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/7 - Enums.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "225f921e8c6eed8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/8 - Dates.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c92bcaa06c7b8f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/9 - JSON.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d3312c7446a0f826",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/9 - JSON.md",
+                "file": "🖥️ Software Engineering/Databases/Schema/10 - Unexpected types.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/9 - JSON.md",
+                "file": "🖥️ Software Engineering/Databases/Schema/10 - Unexpected types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/9 - JSON.md",
+                "file": "🖥️ Software Engineering/Databases/Schema/10 - Unexpected types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/Schema/9 - JSON.md"
+                "file": "🖥️ Software Engineering/Databases/Schema/10 - Unexpected types.md"
               }
             }
           },
@@ -212,14 +163,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c92bcaa06c7b8f8",
+  "active": "d3312c7446a0f826",
   "lastOpenFiles": [
     "🖥️ Software Engineering/Databases/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/Schema/9 - JSON.md",
-    "🖥️ Software Engineering/React/Cool Libraries.md",
-    "🖥️ Software Engineering/Databases/Schema/8 - Dates.md",
-    "🖥️ Software Engineering/Databases/Schema/6 - Long strings.md",
+    "🖥️ Software Engineering/Databases/Schema/3 - Decimals.md",
     "🖥️ Software Engineering/Databases/Schema/7 - Enums.md",
+    "🖥️ Software Engineering/Databases/Schema/8 - Dates.md",
+    "🖥️ Software Engineering/Databases/Schema/10 - Unexpected types.md",
+    "🖥️ Software Engineering/React/Cool Libraries.md",
+    "🖥️ Software Engineering/Databases/Schema/6 - Long strings.md",
     "🖥️ Software Engineering/Databases/Untitled.md",
     "🖥️ Software Engineering/Databases/Schema/4 - Strings.md",
     "🖥️ Software Engineering/Databases/Schema/1 - Introduction and Principles.md",
@@ -229,7 +182,6 @@
     "💡 Learning/Hi.md",
     "💡 Learning/Backlog.md",
     "🖥️ Software Engineering/Databases/Schema/5 - Binary strings.md",
-    "🖥️ Software Engineering/Databases/Schema/3 - Decimals.md",
     "🖥️ Software Engineering/Databases/Schema/2 - Integers.md",
     "🍰 Receitas/Doces/Palha italiana.md",
     "🖥️ Software Engineering/Refactoring/Intro.md",
@@ -246,7 +198,6 @@
     "Untitled.md",
     "🍰 Receitas/Salgadas/Pão de Frango ou Massa de Pizza.md",
     "🧠 Brain Dump/Brain Dump.md",
-    "2023-04-08.md",
     "Untitled.canvas",
     "Docs and External Resources/Refactoring UI v1.0.2.pdf",
     "Docs and External Resources/interface-design-patterns-checklist-2022.pdf"
