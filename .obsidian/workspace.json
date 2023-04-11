@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL/Indexes/3 - Primary keys.md",
+                "file": "🖥️ Software Engineering/Databases/MySQL/Indexes/4 - Secondary keys.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL/Indexes/3 - Primary keys.md",
+                "file": "🖥️ Software Engineering/Databases/MySQL/Indexes/4 - Secondary keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL/Indexes/3 - Primary keys.md",
+                "file": "🖥️ Software Engineering/Databases/MySQL/Indexes/4 - Secondary keys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL/Indexes/3 - Primary keys.md"
+                "file": "🖥️ Software Engineering/Databases/MySQL/Indexes/4 - Secondary keys.md"
               }
             }
           },
@@ -178,12 +178,12 @@
   },
   "active": "e9c90c813cb9580a",
   "lastOpenFiles": [
+    "🖥️ Software Engineering/Databases/MySQL/Indexes/5 - Primary key data types.md",
+    "🖥️ Software Engineering/Databases/MySQL/Indexes/3 - Primary keys.md",
     "🖥️ Software Engineering/Databases/MySQL/Indexes/2 - B+ tress.md",
     "🖥️ Software Engineering/Databases/MySQL/Indexes/1 - Introduction to Indexes.md",
     "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
-    "🖥️ Software Engineering/Databases/MySQL/Indexes/3 - Primary keys.md",
     "🖥️ Software Engineering/Databases/MySQL/Indexes/4 - Secondary keys.md",
-    "🖥️ Software Engineering/Databases/MySQL/Indexes/5 - Primary key data types.md",
     "🖥️ Software Engineering/Databases/MySQL/Indexes/6 - Where to add indexes.md",
     "🖥️ Software Engineering/Databases/MySQL/Indexes/7 - Index selectivity.md",
     "🖥️ Software Engineering/Databases/MySQL/Indexes",
