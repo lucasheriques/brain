@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "e9c90c813cb9580a",
+            "id": "73d2c0c5425fbd36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL/Indexes/7 - Index selectivity.md",
+                "file": "ChatGPT/Prompts.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL/Indexes/7 - Index selectivity.md",
+                "file": "ChatGPT/Prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL/Indexes/7 - Index selectivity.md",
+                "file": "ChatGPT/Prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL/Indexes/7 - Index selectivity.md"
+                "file": "ChatGPT/Prompts.md"
               }
             }
           },
@@ -176,8 +176,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9c90c813cb9580a",
+  "active": "73d2c0c5425fbd36",
   "lastOpenFiles": [
+    "Untitled.md",
+    "ChatGPT/Prompts.md",
+    "ChatGPT",
+    "🖥️ Software Engineering/Databases/MySQL/Schema/11 - Generated columns.md",
+    "🖥️ Software Engineering/Databases/MySQL/Schema/8 - Dates.md",
+    "🖥️ Software Engineering/Databases/MySQL/Indexes/7 - Index selectivity.md",
     "🖥️ Software Engineering/Databases/MySQL/Indexes/6 - Where to add indexes.md",
     "🖥️ Software Engineering/Databases/MySQL/Indexes/5 - Primary key data types.md",
     "🖥️ Software Engineering/Databases/MySQL/Indexes/4 - Secondary keys.md",
@@ -185,10 +191,8 @@
     "🖥️ Software Engineering/Databases/MySQL/Indexes/2 - B+ tress.md",
     "🖥️ Software Engineering/Databases/MySQL/Indexes/1 - Introduction to Indexes.md",
     "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
-    "🖥️ Software Engineering/Databases/MySQL/Indexes/7 - Index selectivity.md",
     "🖥️ Software Engineering/Databases/MySQL/Indexes",
     "🖥️ Software Engineering/Databases/MySQL/Schema/12 - Schema migrations.md",
-    "🖥️ Software Engineering/Databases/MySQL/Schema/11 - Generated columns.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/4 - Strings.md",
     "🖥️ Software Engineering/Databases/MySQL",
     "🖥️ Software Engineering/Databases/MySQL/Schema/3 - Decimals.md",
@@ -197,7 +201,6 @@
     "🖥️ Software Engineering/Databases/MySQL/Schema/9 - JSON.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/10 - Unexpected types.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/7 - Enums.md",
-    "🖥️ Software Engineering/Databases/MySQL/Schema/8 - Dates.md",
     "🖥️ Software Engineering/React/Cool Libraries.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md",
     "🖥️ Software Engineering/Databases/Untitled.md",
@@ -205,7 +208,6 @@
     "📚 Books/Designing Data Intensive Applications.md",
     "💡 Learning/Task Dump.md",
     "💡 Learning/Hi.md",
-    "💡 Learning/Backlog.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema",
     "🖥️ Software Engineering/Databases/MySQL for App Developers/Schema.canvas",
     "🖥️ Software Engineering/Databases/MySQL for App Developers/Untitled/Untitled",
@@ -214,7 +216,6 @@
     "🖥️ Software Engineering/Databases",
     "🖥️ Software Engineering/Refactoring",
     "Untitled.canvas",
-    "Docs and External Resources/Refactoring UI v1.0.2.pdf",
-    "Docs and External Resources/interface-design-patterns-checklist-2022.pdf"
+    "Docs and External Resources/Refactoring UI v1.0.2.pdf"
   ]
 }
