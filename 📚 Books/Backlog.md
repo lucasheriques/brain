@@ -12,6 +12,8 @@
 9. [Just Javascript](https://justjavascript.com/)
 10. Domain Driven Design - Eric Evans
 11. https://structy.net/#features
+12. Blitzscaling: The Lightning-Fast Path to Building Massively Valuable
+13. Rework Jason Fried
 
 
 # Productivity books

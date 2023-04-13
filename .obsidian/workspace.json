@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChatGPT/Prompts.md",
+                "file": "📚 Books/Backlog.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "new Intl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ChatGPT/Prompts.md",
+                "file": "📚 Books/Backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ChatGPT/Prompts.md",
+                "file": "📚 Books/Backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChatGPT/Prompts.md"
+                "file": "📚 Books/Backlog.md"
               }
             }
           },
@@ -178,8 +179,9 @@
   },
   "active": "73d2c0c5425fbd36",
   "lastOpenFiles": [
-    "Untitled.md",
+    "🖥️ Software Engineering/React/Snippets/Formatting numbers and currencies.md",
     "ChatGPT/Prompts.md",
+    "Untitled.md",
     "ChatGPT",
     "🖥️ Software Engineering/Databases/MySQL/Schema/11 - Generated columns.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/8 - Dates.md",
@@ -207,7 +209,6 @@
     "📚 Books/Backlog.md",
     "📚 Books/Designing Data Intensive Applications.md",
     "💡 Learning/Task Dump.md",
-    "💡 Learning/Hi.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema",
     "🖥️ Software Engineering/Databases/MySQL for App Developers/Schema.canvas",
     "🖥️ Software Engineering/Databases/MySQL for App Developers/Untitled/Untitled",
