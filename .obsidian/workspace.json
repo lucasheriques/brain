@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChatGPT/Prompts.md",
+                "file": "🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "new Intl",
+                "query": "`TEXT`",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ChatGPT/Prompts.md",
+                "file": "🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ChatGPT/Prompts.md",
+                "file": "🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChatGPT/Prompts.md"
+                "file": "🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md"
               }
             }
           },
@@ -176,10 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b487829ef28c7756",
+  "active": "73d2c0c5425fbd36",
   "lastOpenFiles": [
-    "🖥️ Software Engineering/Databases/MySQL/Schema/9 - JSON.md",
+    "🖥️ Software Engineering/Databases/MySQL/Schema/4 - Strings.md",
     "ChatGPT/Prompts.md",
+    "🖥️ Software Engineering/Databases/MySQL/Schema/9 - JSON.md",
     "📚 Books/Backlog.md",
     "🖥️ Software Engineering/React/Snippets/Formatting numbers and currencies.md",
     "Untitled.md",
@@ -196,7 +198,6 @@
     "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/MySQL/Indexes",
     "🖥️ Software Engineering/Databases/MySQL/Schema/12 - Schema migrations.md",
-    "🖥️ Software Engineering/Databases/MySQL/Schema/4 - Strings.md",
     "🖥️ Software Engineering/Databases/MySQL",
     "🖥️ Software Engineering/Databases/MySQL/Schema/3 - Decimals.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/2 - Integers.md",
