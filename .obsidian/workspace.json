@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Books/Backlog.md",
+                "file": "ChatGPT/Prompts.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Books/Backlog.md",
+                "file": "ChatGPT/Prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚 Books/Backlog.md",
+                "file": "ChatGPT/Prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Books/Backlog.md"
+                "file": "ChatGPT/Prompts.md"
               }
             }
           },
@@ -177,10 +176,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73d2c0c5425fbd36",
+  "active": "b487829ef28c7756",
   "lastOpenFiles": [
-    "🖥️ Software Engineering/React/Snippets/Formatting numbers and currencies.md",
+    "🖥️ Software Engineering/Databases/MySQL/Schema/9 - JSON.md",
     "ChatGPT/Prompts.md",
+    "📚 Books/Backlog.md",
+    "🖥️ Software Engineering/React/Snippets/Formatting numbers and currencies.md",
     "Untitled.md",
     "ChatGPT",
     "🖥️ Software Engineering/Databases/MySQL/Schema/11 - Generated columns.md",
@@ -200,13 +201,11 @@
     "🖥️ Software Engineering/Databases/MySQL/Schema/3 - Decimals.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/2 - Integers.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/1 - Introduction and Principles.md",
-    "🖥️ Software Engineering/Databases/MySQL/Schema/9 - JSON.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/10 - Unexpected types.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/7 - Enums.md",
     "🖥️ Software Engineering/React/Cool Libraries.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md",
     "🖥️ Software Engineering/Databases/Untitled.md",
-    "📚 Books/Backlog.md",
     "📚 Books/Designing Data Intensive Applications.md",
     "💡 Learning/Task Dump.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema",
