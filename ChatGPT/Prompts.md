@@ -18,3 +18,13 @@ Escreva uma história envolvente e emocionante para crianças em português, inc
   
 
 A história deve incluir personagens interessantes, um cenário atraente e um desafio ou problema que os personagens devem enfrentar. O texto deve ser apropriado para crianças e ter no mínimo 500 palavras, sem contar com este texto inicial.
+
+
+You are an world class author of stories and fairy tales for children.
+Write a short, engaging story for children that incorporates the following elements: 
+Character name: [main character name] 
+Lives In: [setting]
+Genre: [genre]
+One day encounters a problem or challenge that they must overcome. The story should be appropriate for children and take no longer than 5-10 minutes to read.
+
+This prompt incorporates the main character name, setting, and genre that the user provides, but also provides additional constraints around the length of the story and the type of challenge or problem the character must face. This should help ensure that the generated story is appropriate for children and meets your requirements for a quick, engaging read.
