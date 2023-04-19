@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a43bf56f4427aaec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✍️ Writing/Simplifying Product Development and Installation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✍️ Writing/How to Build a Product that Scales into a Company.md",
+                "file": "✍️ Writing/Simplifying Product Development and Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✍️ Writing/How to Build a Product that Scales into a Company.md",
+                "file": "✍️ Writing/Simplifying Product Development and Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✍️ Writing/How to Build a Product that Scales into a Company.md"
+                "file": "✍️ Writing/Simplifying Product Development and Installation.md"
               }
             }
           },
@@ -188,10 +200,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ab55d4e7d44ef7d",
+  "active": "a43bf56f4427aaec",
   "lastOpenFiles": [
-    "🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md",
     "✍️ Writing/How to Build a Product that Scales into a Company.md",
+    "✍️ Writing/Simplifying Product Development and Installation.md",
+    "🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/4 - Strings.md",
     "ChatGPT/Prompts.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/9 - JSON.md",
@@ -219,7 +232,6 @@
     "🖥️ Software Engineering/Databases/MySQL/Schema/7 - Enums.md",
     "🖥️ Software Engineering/React/Cool Libraries.md",
     "🖥️ Software Engineering/Databases/Untitled.md",
-    "📚 Books/Designing Data Intensive Applications.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema",
     "🖥️ Software Engineering/Databases/MySQL for App Developers/Schema.canvas",
     "🖥️ Software Engineering/Databases/MySQL for App Developers/Untitled/Untitled",
