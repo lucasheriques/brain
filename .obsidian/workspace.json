@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✍️ Writing/Simplifying Product Development and Installation.md",
+                "file": "✍️ Writing/How to Build a Product that Scales into a Company.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "`TEXT`",
+                "query": "how to build",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✍️ Writing/Simplifying Product Development and Installation.md",
+                "file": "✍️ Writing/How to Build a Product that Scales into a Company.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✍️ Writing/Simplifying Product Development and Installation.md",
+                "file": "✍️ Writing/How to Build a Product that Scales into a Company.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✍️ Writing/Simplifying Product Development and Installation.md"
+                "file": "✍️ Writing/How to Build a Product that Scales into a Company.md"
               }
             }
           },
@@ -202,8 +202,19 @@
   },
   "active": "a43bf56f4427aaec",
   "lastOpenFiles": [
-    "✍️ Writing/How to Build a Product that Scales into a Company.md",
+    "✍️ Writing/High-Leverage Career Skills.md",
+    "✍️ Writing/Growing beyond fullstack (queues and cronjobs).md",
+    "✍️ Writing/Doing better on engineering interviews.md",
+    "✍️ Writing/Choosing a GraphQL Backend Service.md",
+    "✍️ Writing/Design Patterns Every Developer Should Know.md",
+    "✍️ Writing/Optimize for code readability.md",
+    "✍️ Writing/The bias against front end developers.md",
     "✍️ Writing/Simplifying Product Development and Installation.md",
+    "✍️ Writing/Serverless vs Kubernetes.md",
+    "✍️ Writing/previewing doc files on browser.md",
+    "✍️ Writing/Local development when using Serverless.md",
+    "✍️ Writing/Improving GraphQL performance.md",
+    "✍️ Writing/How to Build a Product that Scales into a Company.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/4 - Strings.md",
     "ChatGPT/Prompts.md",
@@ -218,20 +229,9 @@
     "🖥️ Software Engineering/Databases/MySQL/Indexes/6 - Where to add indexes.md",
     "🖥️ Software Engineering/Databases/MySQL/Indexes/5 - Primary key data types.md",
     "🖥️ Software Engineering/Databases/MySQL/Indexes/4 - Secondary keys.md",
-    "🖥️ Software Engineering/Databases/MySQL/Indexes/3 - Primary keys.md",
-    "🖥️ Software Engineering/Databases/MySQL/Indexes/2 - B+ tress.md",
-    "🖥️ Software Engineering/Databases/MySQL/Indexes/1 - Introduction to Indexes.md",
     "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/MySQL/Indexes",
-    "🖥️ Software Engineering/Databases/MySQL/Schema/12 - Schema migrations.md",
     "🖥️ Software Engineering/Databases/MySQL",
-    "🖥️ Software Engineering/Databases/MySQL/Schema/3 - Decimals.md",
-    "🖥️ Software Engineering/Databases/MySQL/Schema/2 - Integers.md",
-    "🖥️ Software Engineering/Databases/MySQL/Schema/1 - Introduction and Principles.md",
-    "🖥️ Software Engineering/Databases/MySQL/Schema/10 - Unexpected types.md",
-    "🖥️ Software Engineering/Databases/MySQL/Schema/7 - Enums.md",
-    "🖥️ Software Engineering/React/Cool Libraries.md",
-    "🖥️ Software Engineering/Databases/Untitled.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema",
     "🖥️ Software Engineering/Databases/MySQL for App Developers/Schema.canvas",
     "🖥️ Software Engineering/Databases/MySQL for App Developers/Untitled/Untitled",
