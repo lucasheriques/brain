@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✍️ Writing/How to Build a Product that Scales into a Company.md",
+                "file": "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.3 - The useCallback hook.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,9 +85,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "how to build",
-                "matchingCase": false,
-                "explainSearch": false,
+                "query": ".map",
+                "matchingCase": true,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✍️ Writing/How to Build a Product that Scales into a Company.md",
+                "file": "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.3 - The useCallback hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✍️ Writing/How to Build a Product that Scales into a Company.md",
+                "file": "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.3 - The useCallback hook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✍️ Writing/How to Build a Product that Scales into a Company.md"
+                "file": "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.3 - The useCallback hook.md"
               }
             }
           },
@@ -202,6 +202,10 @@
   },
   "active": "a43bf56f4427aaec",
   "lastOpenFiles": [
+    "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.4 - Alternatives.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.3 - The useCallback hook.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.2 - The useMemo hook.md",
+    "✍️ Writing/How to Build a Product that Scales into a Company.md",
     "✍️ Writing/High-Leverage Career Skills.md",
     "✍️ Writing/Growing beyond fullstack (queues and cronjobs).md",
     "✍️ Writing/Doing better on engineering interviews.md",
@@ -214,7 +218,6 @@
     "✍️ Writing/previewing doc files on browser.md",
     "✍️ Writing/Local development when using Serverless.md",
     "✍️ Writing/Improving GraphQL performance.md",
-    "✍️ Writing/How to Build a Product that Scales into a Company.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/4 - Strings.md",
     "ChatGPT/Prompts.md",
@@ -226,9 +229,6 @@
     "🖥️ Software Engineering/Databases/MySQL/Schema/11 - Generated columns.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/8 - Dates.md",
     "🖥️ Software Engineering/Databases/MySQL/Indexes/7 - Index selectivity.md",
-    "🖥️ Software Engineering/Databases/MySQL/Indexes/6 - Where to add indexes.md",
-    "🖥️ Software Engineering/Databases/MySQL/Indexes/5 - Primary key data types.md",
-    "🖥️ Software Engineering/Databases/MySQL/Indexes/4 - Secondary keys.md",
     "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/MySQL/Indexes",
     "🖥️ Software Engineering/Databases/MySQL",
