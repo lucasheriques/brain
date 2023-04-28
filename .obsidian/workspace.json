@@ -4,83 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "620bf8f6589f453e",
+        "id": "70089da541126631",
         "type": "tabs",
         "children": [
           {
-            "id": "d3312c7446a0f826",
+            "id": "0d642dba2ed7f763",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL/Schema/9 - JSON.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73d2c0c5425fbd36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ab55d4e7d44ef7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "✍️ Writing/How to Build a Product that Scales into a Company.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a43bf56f4427aaec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.3 - The useCallback hook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bfac678b18079fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "a.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3b197af220eab4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧠 Brain Dump/Useful things to know regarding my software dev career.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧠 Brain Dump/Useful things to know regarding my software dev career.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🧠 Brain Dump/Useful things to know regarding my software dev career.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🧠 Brain Dump/Useful things to know regarding my software dev career.md"
-              }
+              "state": {}
             }
           },
           {
@@ -224,14 +155,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3b197af220eab4f",
+  "active": "0d642dba2ed7f763",
   "lastOpenFiles": [
+    "🖥️ Software Engineering/Databases/MySQL/Schema/9 - JSON.md",
+    "🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md",
+    "✍️ Writing/How to Build a Product that Scales into a Company.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.3 - The useCallback hook.md",
     "a.md",
     "🧠 Brain Dump/Useful things to know regarding my software dev career.md",
-    "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.3 - The useCallback hook.md",
     "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.4 - Alternatives.md",
     "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.2 - The useMemo hook.md",
-    "✍️ Writing/How to Build a Product that Scales into a Company.md",
     "✍️ Writing/High-Leverage Career Skills.md",
     "✍️ Writing/Growing beyond fullstack (queues and cronjobs).md",
     "✍️ Writing/Doing better on engineering interviews.md",
@@ -244,10 +177,8 @@
     "✍️ Writing/previewing doc files on browser.md",
     "✍️ Writing/Local development when using Serverless.md",
     "✍️ Writing/Improving GraphQL performance.md",
-    "🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/4 - Strings.md",
     "ChatGPT/Prompts.md",
-    "🖥️ Software Engineering/Databases/MySQL/Schema/9 - JSON.md",
     "📚 Books/Backlog.md",
     "🖥️ Software Engineering/React/Snippets/Formatting numbers and currencies.md",
     "ChatGPT",
