@@ -1,0 +1,1 @@
+senior engineer is the first position on an engineering ladder where you also have to be a leader.

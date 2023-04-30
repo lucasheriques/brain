@@ -11,8 +11,12 @@
             "id": "0d642dba2ed7f763",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md"
+              }
             }
           },
           {
@@ -157,6 +165,8 @@
   },
   "active": "0d642dba2ed7f763",
   "lastOpenFiles": [
+    "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
+    "🖥️ Software Engineering/A Life Engineered",
     "🖥️ Software Engineering/Databases/MySQL/Schema/9 - JSON.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md",
     "✍️ Writing/How to Build a Product that Scales into a Company.md",
@@ -183,7 +193,6 @@
     "🖥️ Software Engineering/React/Snippets/Formatting numbers and currencies.md",
     "ChatGPT",
     "🖥️ Software Engineering/Databases/MySQL/Schema/11 - Generated columns.md",
-    "🖥️ Software Engineering/Databases/MySQL/Schema/8 - Dates.md",
     "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/MySQL/Indexes",
     "🖥️ Software Engineering/Databases/MySQL",
@@ -194,7 +203,6 @@
     "🖥️ Software Engineering/Databases/MySQL for App Developers",
     "🖥️ Software Engineering/Databases",
     "🖥️ Software Engineering/Refactoring",
-    "Untitled.canvas",
-    "Docs and External Resources/Refactoring UI v1.0.2.pdf"
+    "Untitled.canvas"
   ]
 }
