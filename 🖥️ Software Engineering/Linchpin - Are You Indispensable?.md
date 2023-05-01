@@ -17,3 +17,8 @@ Passion is a desire, insistence, and willingness to give a gift.
 
 Artists are optimists. The reason is simple: artists have the chance to make things better.
 
+Artists don’t think outside the box, because outside the box there’s a vacuum. [Outside of the box, there are no rules, there is no reality](https://deanyeong.com/paradox-of-choice/). You have nothing to interact with, nothing to work against. Artists think along the edges of the box, because that’s where things get done. That’s where the audience is, that’s where the means of production are available, and that’s where you can make an impact.
+
+[The discipline of shipping](https://deanyeong.com/finishing-is-harder/) is essential in the long-term path to becoming indispensable.
+
+Successful people are successful for one simple reason: they think about failure differently. Successful people learn from failure, but the lesson they learn is a different one. They don’t learn that they shouldn’t have tried in the first place, and they don’t learn that they are always right and the world is wrong and they don’t learn that they are losers. They learn that the tactics they used didn’t work or that the person they used them on didn’t respond.
