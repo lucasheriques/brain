@@ -12,6 +12,10 @@ If you want to be a senior dev, you need to be opinionated about where your team
 
 You can't just be a good coder or an effective scrum master. Being technically deep is a universal trait of senior engineers, but not sufficient for getting to the next leve. 
 
+First trait: technically deep and delivers.
+
 First trait: leadership.
 
 Second trait: rejection of hyperbolic discounting. 
+
+Third trait: growing other people. 
