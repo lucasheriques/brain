@@ -22,3 +22,15 @@ Artists don’t think outside the box, because outside the box there’s a vacuu
 [The discipline of shipping](https://deanyeong.com/finishing-is-harder/) is essential in the long-term path to becoming indispensable.
 
 Successful people are successful for one simple reason: they think about failure differently. Successful people learn from failure, but the lesson they learn is a different one. They don’t learn that they shouldn’t have tried in the first place, and they don’t learn that they are always right and the world is wrong and they don’t learn that they are losers. They learn that the tactics they used didn’t work or that the person they used them on didn’t respond.
+
+The linchpin has figured out that we get only a certain number of brain cycles to spend each day. Spending even one on a situation out of our control has a significant opportunity cost.
+
+Your competition is busy allocating time to create the future, and you are stuck wishing the world was different. We’re attached to a certain view, a given outcome and when it doesn’t appear, we waste time mourning the world that we wanted that isn’t here.
+
+Organizations obey [Newton’s laws](https://deanyeong.com/laws-of-motion/). A team at rest tends to stay at rest.
+
+Humility is our antidote to what’s inevitably not going to go according to plan. Humility permits us to approach a problem with kindness and not arrogance.
+
+Doing what you love is as important as ever, but if you’re going to make a living at it, it helps to find a niche where money flows as a regular consequence of the success of your idea. Loving what you do is almost as important as doing what you love, especially if you need to make a living at it. Go find a job you can commit to, a career or a business you can fall in love with.
+
+What you’re doing might not be working, and you might not be able to do what you’re doing and get paid for it. But I am certain that if you give enough, to the right people in the right way, your gifts will be treasured and your journey will be rewarded. Even if that’s not why you’re doing it.
