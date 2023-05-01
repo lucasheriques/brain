@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4536ca3657aef37c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖥️ Software Engineering/Linchpin - Are You Indispensable?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
+                "file": "🖥️ Software Engineering/Linchpin - Are You Indispensable?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
+                "file": "🖥️ Software Engineering/Linchpin - Are You Indispensable?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md"
+                "file": "🖥️ Software Engineering/Linchpin - Are You Indispensable?.md"
               }
             }
           },
@@ -163,9 +176,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d642dba2ed7f763",
+  "active": "4536ca3657aef37c",
   "lastOpenFiles": [
     "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
+    "🖥️ Software Engineering/Linchpin - Are You Indispensable?.md",
     "🖥️ Software Engineering/A Life Engineered",
     "🖥️ Software Engineering/Databases/MySQL/Schema/9 - JSON.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md",
@@ -192,7 +206,6 @@
     "📚 Books/Backlog.md",
     "🖥️ Software Engineering/React/Snippets/Formatting numbers and currencies.md",
     "ChatGPT",
-    "🖥️ Software Engineering/Databases/MySQL/Schema/11 - Generated columns.md",
     "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/MySQL/Indexes",
     "🖥️ Software Engineering/Databases/MySQL",
