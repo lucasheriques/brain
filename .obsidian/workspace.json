@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
+                "file": "📚 Books/Backlog.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/Linchpin - Are You Indispensable?.md",
+                "file": "📚 Books/Backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/Linchpin - Are You Indispensable?.md",
+                "file": "📚 Books/Backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/Linchpin - Are You Indispensable?.md"
+                "file": "📚 Books/Backlog.md"
               }
             }
           },
@@ -176,8 +175,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4536ca3657aef37c",
+  "active": "0d642dba2ed7f763",
   "lastOpenFiles": [
+    "🖥️ Software Engineering/CSS for JS Devs/Module 1 - Rendering Logic I/CSS Box Model.md",
     "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
     "🖥️ Software Engineering/Linchpin - Are You Indispensable?.md",
     "🖥️ Software Engineering/A Life Engineered",
@@ -204,7 +204,6 @@
     "🖥️ Software Engineering/Databases/MySQL/Schema/4 - Strings.md",
     "ChatGPT/Prompts.md",
     "📚 Books/Backlog.md",
-    "🖥️ Software Engineering/React/Snippets/Formatting numbers and currencies.md",
     "ChatGPT",
     "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/MySQL/Indexes",
