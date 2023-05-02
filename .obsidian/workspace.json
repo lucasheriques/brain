@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Books/Backlog.md",
+                "file": "ChatGPT/Prompts.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Books/Backlog.md",
+                "file": "ChatGPT/Prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚 Books/Backlog.md",
+                "file": "ChatGPT/Prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Books/Backlog.md"
+                "file": "ChatGPT/Prompts.md"
               }
             }
           },
@@ -177,6 +177,8 @@
   },
   "active": "0d642dba2ed7f763",
   "lastOpenFiles": [
+    "🧠 Brain Dump/Overcoming Procrastination.md",
+    "📚 Books/Backlog.md",
     "🖥️ Software Engineering/CSS for JS Devs/Module 1 - Rendering Logic I/CSS Box Model.md",
     "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
     "🖥️ Software Engineering/Linchpin - Are You Indispensable?.md",
@@ -202,8 +204,6 @@
     "✍️ Writing/Local development when using Serverless.md",
     "✍️ Writing/Improving GraphQL performance.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/4 - Strings.md",
-    "ChatGPT/Prompts.md",
-    "📚 Books/Backlog.md",
     "ChatGPT",
     "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/MySQL/Indexes",
