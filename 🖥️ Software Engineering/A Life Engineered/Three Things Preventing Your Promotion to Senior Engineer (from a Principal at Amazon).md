@@ -1,26 +1,6 @@
 [Video](https://www.youtube.com/watch?v=4i5iFlP01mQ&t=8s)
 
-senior engineer is the first position on an engineering ladder where you also have to be a leader.
-
-biggest reason people struggle with this position is that they conflate leadership with management.
-
-senior developr is the first position that has leadership. 
-
-leaders set a diretion and rally their team to that destination. managers are concerned with the execution.
-
-if you choose management over leadership, you will think that doing a good job breaking down tasks, being clever, and keeping folks accountable during standups is what senior devs do. They do that, but the critical piece is that they set direction.
-
-
-
-First trait: technically deep and delivers.
-
-First trait: leadership.
-
-Second trait: rejection of hyperbolic discounting. 
-
-Third trait: growing other people. 
-
----
+Transcription:
 
 Sometimes you can get promoted for being at the right place at the right time. However, we are going to focus on the things that you can actually control.
 
@@ -67,7 +47,28 @@ If your frame is to maximize the benefit of your team's actions over the course 
 
 So, you have to make more time. There are two ways to do this:
 
-1. You can put more hours in on nights and weekends. Seems like an attractive option, 
+You can put more hours in on nights and weekends. 
+
+Seems like an attractive option, because you probably have had to put time in on nights and weekends to meet a tight deadline before. You've been doing this since you college on your bootcamp. But this is an example of hyperbolic discounting, just applied to your life instead of your team. It's not sustainable. Relationships with friends and family will suffer and you won't be taking care of yourself. Worse, when you get promoted, you won't have the tools to cope with your new responsibilities. You'll burn out, get divorced, not see your kids, and become so toxic that work will fire you. **Don't take this faustian bargain.** You'll end up bitter and an unhealthy person. 
+
+So, to find time and think about the future, you need to extract more time from your existing working hours. There is no other healthy way.
+
+There's no shortage of advice on how to manage time out there, and I've tried them all. Yes yes, you should decline all superfluous meetings, set timers, block off time on your calendar, stop going to social media and Reddit, delegate tasks, etc. What you're going to find though, is that there are tasks that only you can do on your team. You're the only one that knows how to build an old package, or you take all of the interviews for your team or you're the only one that knows the ins and outs of a legacy piece of code, you're the only one that breaks down tasks well. The trick is to grow others around you. It requires more bandwidth in the short term, but pays off in the long term. That's two birds with one stone.
+
+**Growing others is the last universal hallmark of a senior engineer.** You know you've grown others when you freed up your own bandwidth. If you use the bandwidth to design the future, we've come full circle.
+
+
+## Recap
+
+Senior engineers have four universal characteristics. 
+
+| Universal Trait                       | Pitfall                                                                                                        |
+| ------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Technically deep and deliver on time. | 1. Over-indexes on delivery and tech depth. Make sure this box is checked, but be aware too much time spent here.                                                                                                        |
+
+
+ 
+> Faustian bargain: a pact whereby a person trades something of supreme moral or spiritual importance, such as personal values or the soul, for some worldly or material benefit, such as knowledge, power, or riches.
 
 
 🚫
