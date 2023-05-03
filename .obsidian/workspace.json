@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChatGPT/Prompts.md",
+                "file": "Reading Backlog.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ChatGPT/Prompts.md",
+                "file": "Reading Backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ChatGPT/Prompts.md",
+                "file": "Reading Backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChatGPT/Prompts.md"
+                "file": "Reading Backlog.md"
               }
             }
           },
@@ -177,6 +177,9 @@
   },
   "active": "0d642dba2ed7f763",
   "lastOpenFiles": [
+    "Measuring.md",
+    "Reading Backlog.md",
+    "ChatGPT/Prompts.md",
     "🧠 Brain Dump/Overcoming Procrastination.md",
     "📚 Books/Backlog.md",
     "🖥️ Software Engineering/CSS for JS Devs/Module 1 - Rendering Logic I/CSS Box Model.md",
@@ -187,7 +190,6 @@
     "🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md",
     "✍️ Writing/How to Build a Product that Scales into a Company.md",
     "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.3 - The useCallback hook.md",
-    "a.md",
     "🧠 Brain Dump/Useful things to know regarding my software dev career.md",
     "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.4 - Alternatives.md",
     "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.2 - The useMemo hook.md",
@@ -202,8 +204,6 @@
     "✍️ Writing/Serverless vs Kubernetes.md",
     "✍️ Writing/previewing doc files on browser.md",
     "✍️ Writing/Local development when using Serverless.md",
-    "✍️ Writing/Improving GraphQL performance.md",
-    "🖥️ Software Engineering/Databases/MySQL/Schema/4 - Strings.md",
     "ChatGPT",
     "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/MySQL/Indexes",
