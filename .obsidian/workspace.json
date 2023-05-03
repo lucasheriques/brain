@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
+                "file": "🖥️ Software Engineering/Web/KCD Testing Web Apps Workshop.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
+                "file": "🖥️ Software Engineering/Web/KCD Testing Web Apps Workshop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
+                "file": "🖥️ Software Engineering/Web/KCD Testing Web Apps Workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md"
+                "file": "🖥️ Software Engineering/Web/KCD Testing Web Apps Workshop.md"
               }
             }
           },
@@ -173,7 +173,9 @@
   },
   "active": "0d642dba2ed7f763",
   "lastOpenFiles": [
+    "🖥️ Software Engineering/Web",
     "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
+    "🖥️ Software Engineering/Web/KCD Testing Web Apps Workshop.md",
     "🖥️ Software Engineering/Linchpin - Are You Indispensable?.md",
     "🖥️ Software Engineering/7 interviews 7 offers (senior engineer at Netflix).md",
     "Measuring.md",
@@ -198,8 +200,6 @@
     "✍️ Writing/Doing better on engineering interviews.md",
     "✍️ Writing/Choosing a GraphQL Backend Service.md",
     "✍️ Writing/Design Patterns Every Developer Should Know.md",
-    "✍️ Writing/Optimize for code readability.md",
-    "✍️ Writing/The bias against front end developers.md",
     "ChatGPT",
     "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/MySQL/Indexes",
