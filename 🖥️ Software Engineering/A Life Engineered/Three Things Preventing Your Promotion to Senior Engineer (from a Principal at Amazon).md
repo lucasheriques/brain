@@ -62,9 +62,27 @@ There's no shortage of advice on how to manage time out there, and I've tried th
 
 Senior engineers have four universal characteristics. 
 
-| Universal Trait                       | Pitfall                                                                                                        |
-| ------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Technically deep and deliver on time. | 1. Over-indexes on delivery and tech depth. Make sure this box is checked, but be aware too much time spent here.                                                                                                        |
+1. Technically deep and deliver on time.
+**Pitfall: over-indexes on delivery and tech depth**.
+
+Everybody always over focus on this aspect thought. Make sure this box is checked, but be aware of too much cowbell here.
+
+**Pitfall: conflates leadership with management**. 
+
+They express their leadership, not management, by demonstrating they're thinking about maximizing the benefits for a longer time horizon (about a year by estimation).
+
+2. Rejects hyperbolic discounting.
+
+3. Expert time manager.
+In order to satisfy 1 and 2, they invent more time. The smartest way to accomplish this is by 4.
+
+4. Growing others around you to take over your existing responsibilities.
+**Pitfall: unsustainable time management.** 
+
+The dumbest way to do this is by putting in more hours.
+
+Growing others has two benefits: it demonstrates that whe
+ 
 
 
  
