@@ -10,9 +10,7 @@ leaders set a diretion and rally their team to that destination. managers are co
 
 if you choose management over leadership, you will think that doing a good job breaking down tasks, being clever, and keeping folks accountable during standups is what senior devs do. They do that, but the critical piece is that they set direction.
 
-If you want to be a senior dev, you need to be opinionated about where your team should be going and your opinion should be good. 
 
-You can't just be a good coder or an effective scrum master. Being technically deep is a universal trait of senior engineers, but not sufficient for getting to the next leve. 
 
 First trait: technically deep and delivers.
 
@@ -34,7 +32,15 @@ Three things people do that get in the way:
 
 Leaders set a direction and rally their team to that destination. Managers are concerned with the execution. Leaders can be managers, but managers are not leaders by default.
 
-An example: suppose you're on a team that owns a backend service for a critical API. 
+### An example
+
+Suppose you're on a team that owns a backend service and need to deliver a critical API for a large project with a deadline in a month. A prototype for the call was done with a script, and you realize that the latency for this call is astronomical. Let's say the medium latency is 10s. And this is at or slightly above the threshold for what is acceptable.
+
+An example of leadership would be to do a deep dive and propose that the API should be an asynchronous one where the API surface turn into a submission of work and fetching of status and outputs of drops.
+
+If you want to be a senior dev, you need to be opinionated about where your team should be going and your opinion should be good. 
+
+You can't just be a good coder or an effective scrum master. Being technically deep is a universal trait of senior engineers, but not sufficient for getting to the next leve. 
 
 
 🚫
