@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading Backlog.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4536ca3657aef37c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖥️ Software Engineering/Linchpin - Are You Indispensable?.md",
+                "file": "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
                 "mode": "source",
                 "source": false
               }
@@ -76,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "f30559bf8b61a0dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -97,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading Backlog.md",
+                "file": "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading Backlog.md",
+                "file": "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading Backlog.md"
+                "file": "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md"
               }
             }
           },
@@ -177,20 +173,24 @@
   },
   "active": "0d642dba2ed7f763",
   "lastOpenFiles": [
+    "🖥️ Software Engineering/Linchpin - Are You Indispensable?.md",
+    "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
+    "🖥️ Software Engineering/7 interviews 7 offers (senior engineer at Netflix).md",
     "Measuring.md",
     "Reading Backlog.md",
     "ChatGPT/Prompts.md",
+    "🧠 Brain Dump/Useful things to know regarding my software dev career.md",
     "🧠 Brain Dump/Overcoming Procrastination.md",
+    "✍️ Writing/previewing doc files on browser.md",
+    "✍️ Writing/Making sense of z-index.md",
+    "✍️ Writing/psql error connection to server on socket PSQL.5432.md",
     "📚 Books/Backlog.md",
     "🖥️ Software Engineering/CSS for JS Devs/Module 1 - Rendering Logic I/CSS Box Model.md",
-    "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
-    "🖥️ Software Engineering/Linchpin - Are You Indispensable?.md",
     "🖥️ Software Engineering/A Life Engineered",
     "🖥️ Software Engineering/Databases/MySQL/Schema/9 - JSON.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md",
     "✍️ Writing/How to Build a Product that Scales into a Company.md",
     "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.3 - The useCallback hook.md",
-    "🧠 Brain Dump/Useful things to know regarding my software dev career.md",
     "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.4 - Alternatives.md",
     "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.2 - The useMemo hook.md",
     "✍️ Writing/High-Leverage Career Skills.md",
@@ -200,10 +200,6 @@
     "✍️ Writing/Design Patterns Every Developer Should Know.md",
     "✍️ Writing/Optimize for code readability.md",
     "✍️ Writing/The bias against front end developers.md",
-    "✍️ Writing/Simplifying Product Development and Installation.md",
-    "✍️ Writing/Serverless vs Kubernetes.md",
-    "✍️ Writing/previewing doc files on browser.md",
-    "✍️ Writing/Local development when using Serverless.md",
     "ChatGPT",
     "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/MySQL/Indexes",

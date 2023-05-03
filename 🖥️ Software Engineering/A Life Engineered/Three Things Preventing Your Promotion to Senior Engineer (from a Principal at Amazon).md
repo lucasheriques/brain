@@ -22,6 +22,20 @@ Second trait: rejection of hyperbolic discounting.
 
 Third trait: growing other people. 
 
+---
+
+Sometimes you can get promoted for being at the right place at the right time. However, we are going to focus on the things that you can actually control.
+
+Four universal traits of senior engineers:
+1. 
+
+Three things people do that get in the way:
+1. Biggest reason people struggle with this promotion is because they conflate leadership with management. Senior devs is the first position that is considered a leadership position. You tipically do not have any direct reports.
+
+Leaders set a direction and rally their team to that destination. Managers are concerned with the execution. Leaders can be managers, but managers are not leaders by default.
+
+An example: suppose you're on a team that owns a backend service for a critical API. 
+
 
 🚫
 "Three things people do that get in the way of becoming a senior engineer: not taking ownership, not being proactive, and not having a long-term vision."
