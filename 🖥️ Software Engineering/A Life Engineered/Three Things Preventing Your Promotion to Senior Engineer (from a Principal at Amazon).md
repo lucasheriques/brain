@@ -48,7 +48,9 @@ Usually SDEs are always concerned with getting more technical knowledge and to d
 
 Being technically deep is a universal trait of senior engineers, but not sufficient for getting to the next level. These sort of responses are missing the point. All SDEs are technically deep and ship things. Technical chop and project management will only get you so far. For true tech depth, you need a layer of in leadership.
 
-When you go into a meeting with engineers you've never met
+When you go into a meeting with engineers you've never met before, your level and title are not part of the meeting invitation. But, as the meeting progresses, you get to know who the seniors are. That's my litmus test for senior engineer. When folks in the meeting assuming someone is a team lead because of the way they carry themselves and the way they talk about things. If folks only realize that they aren't a senior engineer until afterwards, when they look them up, that's a key indicator that you're ready. To tell is that they demonstrate they are thinkings about the long-term consequences of immediate action and communicate a steady state for systems that's healthy, makes sense, and doesn't compound existing operational burden or tech debt.
+
+Tech promotions are almost universally anti-peter principle. The peter principle is the idea that if you're killing it at your current level you deserve a promotion to the next level. On the surface this seems like a reasonable way to approach promotions. The problem is that you find the correct level of a person only by promoting them to a level where they become
 
 
 🚫
