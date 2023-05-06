@@ -10,3 +10,7 @@ Prompt: Once upon a
 
 
 ## Instruction Tuned LLM
+
+think of giving instructions to another person
+
+when a LLM doesn't work, sometimes it's because those instructions were not clear enough
