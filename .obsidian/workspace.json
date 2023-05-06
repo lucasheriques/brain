@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "70089da541126631",
+        "id": "a7a39039103a0632",
         "type": "tabs",
         "children": [
           {
-            "id": "0d642dba2ed7f763",
+            "id": "3939e65926b20320",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
-                "viewState": {
-                  "x": 604.9962760366902,
-                  "y": -869.0650487324687,
-                  "zoom": -0.3538608550591349
-                }
+                "file": "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
+                "file": "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
+                "file": "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas"
+                "file": "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction.md"
               }
             }
           },
@@ -174,9 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d642dba2ed7f763",
+  "active": "3939e65926b20320",
   "lastOpenFiles": [
+    "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/ChatGPT Prompt Engineering for Developers.canvas",
+    "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction.md",
+    "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs",
+    "🖥️ Software Engineering/LLMs",
     "🖥️ Software Engineering/ChatGPT Prompt Engineering for Developers/Untitled.canvas",
+    "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
     "🖥️ Software Engineering/ChatGPT Prompt Engineering for Developers/Untitled.md",
     "ChatGPT/ChatGPT Prompt Engineering for Developers.md",
     "🖥️ Software Engineering/ChatGPT Prompt Engineering for Developers",
@@ -204,16 +206,12 @@
     "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.2 - The useMemo hook.md",
     "✍️ Writing/High-Leverage Career Skills.md",
     "✍️ Writing/Growing beyond fullstack (queues and cronjobs).md",
-    "✍️ Writing/Doing better on engineering interviews.md",
     "ChatGPT",
-    "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/MySQL/Indexes",
     "🖥️ Software Engineering/Databases/MySQL",
     "🖥️ Software Engineering/Databases/MySQL/Schema",
     "🖥️ Software Engineering/Databases/MySQL for App Developers/Schema.canvas",
     "🖥️ Software Engineering/Databases/MySQL for App Developers/Untitled/Untitled",
-    "🖥️ Software Engineering/Databases/MySQL for App Developers/Untitled",
-    "🖥️ Software Engineering/Databases/MySQL for App Developers",
     "Untitled.canvas"
   ]
 }
