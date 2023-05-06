@@ -11,11 +11,14 @@
             "id": "0d642dba2ed7f763",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "🖥️ Software Engineering/Web/KCD Testing Web Apps Workshop.md",
-                "mode": "source",
-                "source": false
+                "file": "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
+                "viewState": {
+                  "x": 604.9962760366902,
+                  "y": -869.0650487324687,
+                  "zoom": -0.3538608550591349
+                }
               }
             }
           }
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/Web/KCD Testing Web Apps Workshop.md",
+                "file": "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/Web/KCD Testing Web Apps Workshop.md",
+                "file": "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/Web/KCD Testing Web Apps Workshop.md"
+                "file": "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas"
               }
             }
           },
@@ -173,14 +176,18 @@
   },
   "active": "0d642dba2ed7f763",
   "lastOpenFiles": [
+    "🖥️ Software Engineering/ChatGPT Prompt Engineering for Developers/Untitled.canvas",
+    "🖥️ Software Engineering/ChatGPT Prompt Engineering for Developers/Untitled.md",
+    "ChatGPT/ChatGPT Prompt Engineering for Developers.md",
+    "🖥️ Software Engineering/ChatGPT Prompt Engineering for Developers",
+    "ChatGPT/Prompts.md",
+    "🖥️ Software Engineering/Web/KCD Testing Web Apps Workshop.md",
     "🖥️ Software Engineering/Web",
     "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
-    "🖥️ Software Engineering/Web/KCD Testing Web Apps Workshop.md",
     "🖥️ Software Engineering/Linchpin - Are You Indispensable?.md",
     "🖥️ Software Engineering/7 interviews 7 offers (senior engineer at Netflix).md",
     "Measuring.md",
     "Reading Backlog.md",
-    "ChatGPT/Prompts.md",
     "🧠 Brain Dump/Useful things to know regarding my software dev career.md",
     "🧠 Brain Dump/Overcoming Procrastination.md",
     "✍️ Writing/previewing doc files on browser.md",
@@ -198,8 +205,6 @@
     "✍️ Writing/High-Leverage Career Skills.md",
     "✍️ Writing/Growing beyond fullstack (queues and cronjobs).md",
     "✍️ Writing/Doing better on engineering interviews.md",
-    "✍️ Writing/Choosing a GraphQL Backend Service.md",
-    "✍️ Writing/Design Patterns Every Developer Should Know.md",
     "ChatGPT",
     "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
     "🖥️ Software Engineering/Databases/MySQL/Indexes",
@@ -209,8 +214,6 @@
     "🖥️ Software Engineering/Databases/MySQL for App Developers/Untitled/Untitled",
     "🖥️ Software Engineering/Databases/MySQL for App Developers/Untitled",
     "🖥️ Software Engineering/Databases/MySQL for App Developers",
-    "🖥️ Software Engineering/Databases",
-    "🖥️ Software Engineering/Refactoring",
     "Untitled.canvas"
   ]
 }
