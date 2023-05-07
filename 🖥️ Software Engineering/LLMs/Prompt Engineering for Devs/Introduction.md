@@ -17,3 +17,6 @@ when a LLM doesn't work, sometimes it's because those instructions were not clea
 
 # Guidelines
 
+some principles and tactits to apply when working with LLMs:
+1. Write clear and specific instructions
+2. Give the model time to think
