@@ -19,4 +19,7 @@ when a LLM doesn't work, sometimes it's because those instructions were not clea
 
 some principles and tactits to apply when working with LLMs:
 1. Write clear and specific instructions
-2. Give the model time to think
+
+You should express  what you want a model to do by providing instructions that are as clear and specific as you can possibly make them. Clear =/= short. In many cases, writing longer prompts provide more clarity and context for the model,
+
+1. Give the model time to think
