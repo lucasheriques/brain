@@ -274,4 +274,4 @@ Use the following format:
 ## Model Limitations
 **Hallucination**: makes statements that sound plausible but are not true.
 
-1. Give the model time to think
+Reducing hallucinations: ask the model to first find relevant information, then answer the question based on the relevant information.
