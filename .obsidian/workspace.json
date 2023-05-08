@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading Backlog.md",
+                "file": "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading Backlog.md",
+                "file": "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading Backlog.md",
+                "file": "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading Backlog.md"
+                "file": "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction.md"
               }
             }
           },
@@ -173,6 +173,10 @@
   },
   "active": "3939e65926b20320",
   "lastOpenFiles": [
+    "✍️ Writing/Local development when using Serverless.md",
+    "✍️ Writing/Improving GraphQL performance.md",
+    "✍️ Writing/How to Build a Product that Scales into a Company.md",
+    "Reading Backlog.md",
     "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction.md",
     "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/ChatGPT Prompt Engineering for Developers.canvas",
     "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs",
@@ -189,7 +193,6 @@
     "🖥️ Software Engineering/Linchpin - Are You Indispensable?.md",
     "🖥️ Software Engineering/7 interviews 7 offers (senior engineer at Netflix).md",
     "Measuring.md",
-    "Reading Backlog.md",
     "🧠 Brain Dump/Useful things to know regarding my software dev career.md",
     "🧠 Brain Dump/Overcoming Procrastination.md",
     "✍️ Writing/previewing doc files on browser.md",
@@ -200,12 +203,10 @@
     "🖥️ Software Engineering/A Life Engineered",
     "🖥️ Software Engineering/Databases/MySQL/Schema/9 - JSON.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md",
-    "✍️ Writing/How to Build a Product that Scales into a Company.md",
     "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.3 - The useCallback hook.md",
     "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.4 - Alternatives.md",
     "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.2 - The useMemo hook.md",
     "✍️ Writing/High-Leverage Career Skills.md",
-    "✍️ Writing/Growing beyond fullstack (queues and cronjobs).md",
     "ChatGPT",
     "🖥️ Software Engineering/Databases/MySQL/Indexes",
     "🖥️ Software Engineering/Databases/MySQL",
