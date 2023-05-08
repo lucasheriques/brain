@@ -271,5 +271,7 @@ you have done the problem yourself.
 Use the following format:
 ```
 
+## Model Limitations
+**Hallucination**: makes statements that sound plausible but are not true.
 
 1. Give the model time to think

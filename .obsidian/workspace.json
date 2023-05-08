@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction.md",
+                "file": "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction and Guidelines.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction.md",
+                "file": "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction and Guidelines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction.md",
+                "file": "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction and Guidelines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction.md"
+                "file": "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction and Guidelines.md"
               }
             }
           },
@@ -177,7 +177,7 @@
     "✍️ Writing/Improving GraphQL performance.md",
     "✍️ Writing/How to Build a Product that Scales into a Company.md",
     "Reading Backlog.md",
-    "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction.md",
+    "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction and Guidelines.md",
     "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/ChatGPT Prompt Engineering for Developers.canvas",
     "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs",
     "🖥️ Software Engineering/LLMs",
