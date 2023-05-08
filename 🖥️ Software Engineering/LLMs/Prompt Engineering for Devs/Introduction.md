@@ -181,6 +181,46 @@ response = get_completion(prompt_1)
 print("Completion for prompt 1:")
 print(response)
 ```
+Completion for prompt 1:
+Two siblings, Jack and Jill, go on a quest to fetch water from a well on a hilltop, but misfortune strikes and they both tumble down the hill, returning home slightly battered but with their adventurous spirits undimmed.
+
+Deux frères et sœurs, Jack et Jill, partent en quête d'eau d'un puits sur une colline, mais un malheur frappe et ils tombent tous les deux de la colline, rentrant chez eux légèrement meurtris mais avec leurs esprits aventureux intacts. 
+Noms: Jack, Jill. 
+
+{
+  "french_summary": "Deux frères et sœurs, Jack et Jill, partent en quête d'eau d'un puits sur une colline, mais un malheur frappe et ils tombent tous les deux de la colline, rentrant chez eux légèrement meurtris mais avec leurs esprits aventureux intacts.",
+  "num_names": 2
+}
+
+```python
+# example 2, ask for output in a specific format
+prompt_2 = f"""
+Your task is to perform the following actions: 
+1 - Summarize the following text delimited by 
+  <> with 1 sentence.
+2 - Translate the summary into French.
+3 - List each name in the French summary.
+4 - Output a json object that contains the 
+  following keys: french_summary, num_names.
+
+Use the following format:
+Text: <text to summarize>
+Summary: <summary>
+Translation: <summary translation>
+Names: <list of names in Italian summary>
+Output JSON: <json with summary and num_names>
+
+Text: <{text}>
+"""
+response = get_completion(prompt_2)
+print("\nCompletion for prompt 2:")
+print(response)
+```
+Completion for prompt 2:
+Summary: Jack and Jill go on a quest to fetch water, but misfortune strikes and they tumble down the hill, returning home slightly battered but with their adventurous spirits undimmed. 
+Translation: Jack et Jill partent en quête d'eau, mais un malheur frappe et ils tombent de la colline, rentrant chez eux légèrement meurtris mais avec leurs esprits aventureux intacts.
+Names: Jack, Jill
+Output JSON: {"french_summary": "Jack et Jill partent en quête d'eau, mais un malheur frappe et ils tombent de la colline, rentrant chez eux légèrement meurtris mais avec leurs esprits aventureux intacts.", "num_names": 2}
 
 
 
