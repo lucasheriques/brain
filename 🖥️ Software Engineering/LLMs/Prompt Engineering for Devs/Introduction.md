@@ -222,6 +222,10 @@ Translation: Jack et Jill partent en quête d'eau, mais un malheur frappe et ils
 Names: Jack, Jill
 Output JSON: {"french_summary": "Jack et Jill partent en quête d'eau, mais un malheur frappe et ils tombent de la colline, rentrant chez eux légèrement meurtris mais avec leurs esprits aventureux intacts.", "num_names": 2}
 
+#### Tactic 2: Instruct the model to work out its own solution before rushing to a conclusion
+
+
+
 
 
 
