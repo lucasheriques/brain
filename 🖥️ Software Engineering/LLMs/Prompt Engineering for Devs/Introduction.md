@@ -30,4 +30,10 @@ Using delimiters is also helpful to avoid prompt injections.
 Prompt injections happens if the user is allowed to have some input into your prompt. They might give kind of conflicting instructions to the model that might make it follow the user's instructions rather than doing what you want it to do.
 
 
+### Tactic 2: Ask for a structured output
+JSON, HTML, etc.
+
+
+
+
 1. Give the model time to think
