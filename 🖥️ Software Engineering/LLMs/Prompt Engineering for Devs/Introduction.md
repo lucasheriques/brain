@@ -33,6 +33,19 @@ Prompt injections happens if the user is allowed to have some input into your pr
 ### Tactic 2: Ask for a structured output
 JSON, HTML, etc.
 
+```python
+prompt = f"""
+Generate a list of three made-up book titles along \ 
+with their authors and genres. 
+Provide them in JSON format with the following keys: 
+book_id, title, author, genre.
+"""
+```
+
+#### Tactic 3: Ask the model to check whether conditions are satisfied
+
+
+
 
 
 
