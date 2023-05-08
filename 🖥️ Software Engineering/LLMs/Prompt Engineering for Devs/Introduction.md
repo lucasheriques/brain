@@ -144,7 +144,7 @@ Grandparent: Resilience is like a tree that bends with the wind but never breaks
 
 if a modal is making reasoning errors by rushing to an incorrect conclusion, you should try reframing the query to request a chain or a series of relevant reasoning before the model provides its final answer. 
 
-Another way to think about this is that if you give a model a task that's 
+Another way to think about this is that if you give a model a task that's too complex for it to do in a short amount of time or in a small number of words, it may make up a guess which is likely to be incorrect. And you know, this would happen for a person too. If you ask someone to complete a complex math question without time to work out 
 
 #### Tactic 1: Specify the steps required to complete a task
 
