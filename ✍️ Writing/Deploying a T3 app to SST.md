@@ -5,7 +5,12 @@ This initial command creates your SST app using their standard monorepo structur
 $ pnpm create sst my-t3-sst-app
 $ cd my-t3-sst-app
 $ pnpm i
-$ pnpm dev
 ```
 
+Now, let's create our T3 app. We'll name it `web` and put it on the packages folder.
 
+```bash
+$ cd packages
+$ pnpm create t3-app@latest
+$ 
+```
