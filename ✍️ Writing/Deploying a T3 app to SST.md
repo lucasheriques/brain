@@ -10,14 +10,11 @@ $ pnpm i
 $ pnpm dev
 ```
 
-Once `pnpm dev` finished running, you'll have your environment set up on AWS (without any tears!).
+Once `pnpm dev` finished running, you'll have your environment set up on AWS (without any tears!). You'll be able to open the SST Console and use their great Live Lambda Experience, once the time comes for that.
 
+However, our focus today is to get a Nextjs application running using the T3 stack.
 
-
-
-
-
-Now, let's create our T3 app. We'll name it `web` and put it on the packages folder.
+So, let's create our T3 app. We'll name it `web` and put it on the packages folder.
 
 ```bash
 $ cd packages
@@ -30,4 +27,8 @@ Here's a screenshot showing the answers to the command:
 
 I just selected everything and named the project `web`.
 
-Now, let's go back 
+Now, let's open our editor and go to the file `stacks/MyStack.ts`.
+
+SST allows you to define your *infrastructure* using code. It uses the AWS CDK to do that, with an amazing DX.
+
+Since we're creating a new Nextjs website, we'll use the `NextjsSite` to do that. So, let's add this code:
