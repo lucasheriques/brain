@@ -31,4 +31,26 @@ Now, let's open our editor and go to the file `stacks/MyStack.ts`.
 
 SST allows you to define your *infrastructure* using code. It uses the AWS CDK to do that, with an amazing DX.
 
-Since we're creating a new Nextjs website, we'll use the `NextjsSite` to do that. So, let's add this code:
+Since we're creating a new Nextjs website, we'll use the `NextjsSite` to do that. So, let's change the `MyStack.ts` code so it uses it:
+
+```ts
+import { StackContext, Api, NextjsSite } from "sst/constructs";
+
+export function API({ stack }: StackContext) {
+  const api = new Api(stack, "api", {
+    routes: {
+      "GET /": "packages/functions/src/lambda.handler",
+    },
+  });
+
+  const site = new NextjsSite(stack, "Site", {
+    path: "packages/web",
+  });
+
+  stack.addOutputs({
+    SiteUrl: site.url,
+    ApiEndpoint: api.url,
+  });
+}
+```
+
