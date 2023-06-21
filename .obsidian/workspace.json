@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/9 - Portals.md",
+                "file": "atributos rpg.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/9 - Portals.md",
+                "file": "atributos rpg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/9 - Portals.md",
+                "file": "atributos rpg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/9 - Portals.md"
+                "file": "atributos rpg.md"
               }
             }
           },
@@ -220,6 +220,7 @@
   },
   "active": "90a641afdb37a48f",
   "lastOpenFiles": [
+    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/9 - Portals.md",
     "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/8 - Immer.md",
     "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/7 - useReducer.md",
     "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/6 - Principle of Least Privilege.md",
@@ -239,7 +240,7 @@
     "✍️ Writing/Deploying a T3 app to SST.md",
     "CleanShot 2023-06-01 at 22.59.03.png",
     "Untitled 1.md",
-    "Untitled.md",
+    "atributos rpg.md",
     "✍️ Writing/High-Leverage Career Skills.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/10 - Unexpected types.md",
     "🖥️ Software Engineering/Image Generation/prompt builder.md",
@@ -247,7 +248,6 @@
     "SOP.md",
     "✍️ Writing/Local development when using Serverless.md",
     "✍️ Writing/Improving GraphQL performance.md",
-    "✍️ Writing/How to Build a Product that Scales into a Company.md",
     "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/ChatGPT Prompt Engineering for Developers.canvas",
     "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs",
     "🖥️ Software Engineering/LLMs",
