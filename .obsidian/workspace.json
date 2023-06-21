@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖥️ Software Engineering/Mac Setup Guide.md",
+                "file": "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/9 - Portals.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/Mac Setup Guide.md",
+                "file": "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/9 - Portals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/Mac Setup Guide.md",
+                "file": "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/9 - Portals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/Mac Setup Guide.md"
+                "file": "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/9 - Portals.md"
               }
             }
           },
@@ -220,6 +220,22 @@
   },
   "active": "90a641afdb37a48f",
   "lastOpenFiles": [
+    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/8 - Immer.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/7 - useReducer.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/6 - Principle of Least Privilege.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/5 - Single Source of Truth.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/4 - Lifting Content Up.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/2 - Elements Revisited.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/3 - Deriving State.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/1 - Leveraging Keys.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 4 - Component API Design/8 - Slots.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 4 - Component API Design/7 - Compound Components.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 4 - Component API Design/6 - Polymorphism.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 4 - Component API Design/5 - Forwarding Refs.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 4 - Component API Design/4 - Prop Delegation.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 4 - Component API Design/3 - Component Libraries.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 4 - Component API Design/2 - The Spectrum of Components.md",
+    "🖥️ Software Engineering/Mac Setup Guide.md",
     "✍️ Writing/Deploying a T3 app to SST.md",
     "CleanShot 2023-06-01 at 22.59.03.png",
     "Untitled 1.md",
@@ -232,28 +248,13 @@
     "✍️ Writing/Local development when using Serverless.md",
     "✍️ Writing/Improving GraphQL performance.md",
     "✍️ Writing/How to Build a Product that Scales into a Company.md",
-    "Reading Backlog.md",
-    "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction and Guidelines.md",
     "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/ChatGPT Prompt Engineering for Developers.canvas",
     "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs",
     "🖥️ Software Engineering/LLMs",
     "🖥️ Software Engineering/ChatGPT Prompt Engineering for Developers/Untitled.canvas",
     "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
-    "🖥️ Software Engineering/ChatGPT Prompt Engineering for Developers/Untitled.md",
-    "ChatGPT/ChatGPT Prompt Engineering for Developers.md",
     "🖥️ Software Engineering/ChatGPT Prompt Engineering for Developers",
-    "ChatGPT/Prompts.md",
-    "🖥️ Software Engineering/Web/KCD Testing Web Apps Workshop.md",
     "🖥️ Software Engineering/Web",
-    "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
-    "🖥️ Software Engineering/Linchpin - Are You Indispensable?.md",
-    "🖥️ Software Engineering/7 interviews 7 offers (senior engineer at Netflix).md",
-    "Measuring.md",
-    "🧠 Brain Dump/Useful things to know regarding my software dev career.md",
-    "🧠 Brain Dump/Overcoming Procrastination.md",
-    "✍️ Writing/previewing doc files on browser.md",
-    "✍️ Writing/Making sense of z-index.md",
-    "✍️ Writing/psql error connection to server on socket PSQL.5432.md",
     "🖥️ Software Engineering/A Life Engineered",
     "ChatGPT",
     "🖥️ Software Engineering/Databases/MySQL/Indexes",
