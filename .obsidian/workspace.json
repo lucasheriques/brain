@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "text",
+                "query": "rpg",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -120,7 +120,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,7 +219,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90a641afdb37a48f",
+  "active": "95a5e2bdb4a04bd4",
   "lastOpenFiles": [
     "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/9 - Portals.md",
     "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/8 - Immer.md",
