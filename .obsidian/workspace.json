@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOP.md",
+                "file": "🍰 Receitas/Doces/chocolate quente belga.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOP.md",
+                "file": "🍰 Receitas/Doces/chocolate quente belga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOP.md",
+                "file": "🍰 Receitas/Doces/chocolate quente belga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOP.md"
+                "file": "🍰 Receitas/Doces/chocolate quente belga.md"
               }
             }
           },
@@ -173,8 +173,9 @@
   },
   "active": "07ea385b562f56cb",
   "lastOpenFiles": [
-    "Águas de Krastélia.md",
     "SOP.md",
+    "🍰 Receitas/Doces/chocolate quente belga.md",
+    "Águas de Krastélia.md",
     "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction and Guidelines.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md",
     "🍰 Receitas/Salgadas/Pão de Frango ou Massa de Pizza.md",
@@ -199,7 +200,6 @@
     "CleanShot 2023-06-01 at 22.59.03.png",
     "Untitled 1.md",
     "✍️ Writing/High-Leverage Career Skills.md",
-    "🖥️ Software Engineering/Databases/MySQL/Schema/10 - Unexpected types.md",
     "🖥️ Software Engineering/Image Generation",
     "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/ChatGPT Prompt Engineering for Developers.canvas",
     "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs",
