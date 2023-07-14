@@ -12,7 +12,23 @@ removing test
 
 
 
+OP, só não se esqueça que mais importante que a ideia, é a execução. Ideia boa qualquer maluco tem, colocar no mundo real de forma decente... é pra poucos.
 
+Estude muito o setor antes de entrar. A maior parte dos problemas que existem, a maioria das pessoas sequer sabem. Talvez seja uma etapa específica na indústria de produção de peças automobilísticas? Uma falta de integração entre sistemas num ramo intensivo em SAP? Ou quem sabe uma tendência demográfica, como a Silver Economy?
+
+Cuidado com as low hanging fruits. Se é muito óbvio e muito fácil de ser resolvido, por que ninguém resolveu? Claro que você pode resolver, mas o que no seu histórico profissional e acadêmico poderia demonstrar isso? Qual o diferencial dessa vez?
+
+Uma vez definido o mercado, se pergunte: o quão grande ele é? Faça uma estimativas. Qual o TAM SAM SOM (pesquise o que é)? É mais de R$1B por ano? Mais de R$500M? Não tem resposta certa aqui. E se o mercado for grande, como está dividido? É muito pulverizado (retail de peça automotiva) ou é super concentrado (plataforma de delivery de comida)?
+
+Quais as barreiras à entrada? Legislação específica que exige know-how? Uso intensivo de capital?
+
+É B2B ou B2C? Se é B2B, como você pretende chegar nas empresas? Outbound, inbound? Quem é seu ponto de contato para vender lá dentro? É o CFO ou o gerente de qualquer coisa? Se é B2C, como chegar no consumidor? Marketing de performance? Há efeitos de rede (e.g. Tinder), se sim, como construir?
+
+Quem são os concorrentes? Tem alguém fazendo isso? O quão grande esses caras são? Eles começaram quando? Tem algum de capital aberto fora do país (se sim, leia os releases)? Entre em contato e marque um call de 30 min pra conversar e conhecer (você vai fazer muito isso).
+
+Quanto tempo pro breakeven? Você vai bootstrap ou quer captar pra poder queimar dinheiro? Como o negócio vai se financiar? Lembre de montar um Business Plan de 3 ou 5 anos, mostrando como o dinheiro entra e como desce até pingar num lucro ou prejuízo líquido.
+
+Estude muito o que quer fazer, talvez chegue uma hora num "a-ha!". Seja como for, não fique parado e arregace as mangas. Leia reports da McKinsey, pode ajudar também.
 
 
 

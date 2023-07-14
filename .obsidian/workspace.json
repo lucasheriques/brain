@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍰 Receitas/Doces/chocolate quente belga.md",
+                "file": "🧠 Brain Dump/Brain Dump.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍰 Receitas/Doces/chocolate quente belga.md",
+                "file": "🧠 Brain Dump/Brain Dump.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🍰 Receitas/Doces/chocolate quente belga.md",
+                "file": "🧠 Brain Dump/Brain Dump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🍰 Receitas/Doces/chocolate quente belga.md"
+                "file": "🧠 Brain Dump/Brain Dump.md"
               }
             }
           },
@@ -173,8 +173,8 @@
   },
   "active": "07ea385b562f56cb",
   "lastOpenFiles": [
-    "SOP.md",
     "🍰 Receitas/Doces/chocolate quente belga.md",
+    "SOP.md",
     "Águas de Krastélia.md",
     "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction and Guidelines.md",
     "🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md",
