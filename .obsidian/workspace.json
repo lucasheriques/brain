@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4eea4b1d8db88f91",
+        "id": "3ad4a0dd6ef27c8c",
         "type": "tabs",
         "children": [
           {
-            "id": "bfb3d4a754349014",
+            "id": "1cd8eb39cd724c1b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -112,17 +111,6 @@
             }
           },
           {
-            "id": "db9a3c1079a8c86f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "8f5dbabad875d469",
             "type": "leaf",
             "state": {
@@ -145,13 +133,25 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "791a307f53f71a0a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,9 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95a5e2bdb4a04bd4",
+  "active": "1cd8eb39cd724c1b",
   "lastOpenFiles": [
+    "🖥️ Software Engineering/React/Joy of React/Module 2 - Working With State/2 - The useState Hook.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 2 - Working With State/1 - Event Handlers.md",
     "🖥️ Software Engineering/React/Joy of React/Module 1 - React Fundamentals/1 - Hello React.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 1 - React Fundamentals/Build Your Own React.md",
     "🍰 Receitas/Salgadas/Pão de Frango ou Massa de Pizza.md",
     "🍰 Receitas/Salgadas/Pão Low carb.md",
     "🍰 Receitas/Salgadas/Molho big tasty.md",
@@ -191,9 +194,6 @@
     "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/4 - Lifting Content Up.md",
     "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/2 - Elements Revisited.md",
     "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/3 - Deriving State.md",
-    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/1 - Leveraging Keys.md",
-    "🖥️ Software Engineering/React/Joy of React/Module 4 - Component API Design/8 - Slots.md",
-    "🖥️ Software Engineering/React/Joy of React/Module 4 - Component API Design/7 - Compound Components.md",
     "CleanShot 2023-06-01 at 22.59.03.png",
     "🖥️ Software Engineering/Image Generation",
     "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/ChatGPT Prompt Engineering for Developers.canvas",

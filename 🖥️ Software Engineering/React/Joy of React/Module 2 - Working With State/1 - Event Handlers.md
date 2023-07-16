@@ -1,3 +1,6 @@
+---
+tags: react, web
+---
 Events occur when the user interacts with the browser, like:
 - clicking a button
 - moving their cursor

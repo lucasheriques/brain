@@ -1,3 +1,6 @@
+---
+tags: react, web
+---
 # Initial value
 
 State variables can be given an initial value, like `React.useState(1)`, which will initialize the state with the value 1.
