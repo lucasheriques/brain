@@ -1,3 +1,7 @@
+---
+tags: react, web
+---
+
 How does React works under the hood?
 
 ```js
