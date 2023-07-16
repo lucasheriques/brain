@@ -1,4 +1,10 @@
 [
   "table-editor-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-tagfolder",
+  "obsidian-linter",
+  "obsidian-excalidraw-plugin",
+  "obsidian-day-planner",
+  "obsidian-kanban",
+  "readwise-official"
 ]

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#react",
+  "search": "#articles",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 2.5880300575691884,
-  "close": true
+  "scale": 2.0358685553829035,
+  "close": false
 }

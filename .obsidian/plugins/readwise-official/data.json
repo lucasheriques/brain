@@ -1,0 +1,32 @@
+{
+  "token": "fgZZAkP5gI83Hbu92rFH4Rf9ewImXVQLOfyaG6sdRgk74nA015",
+  "readwiseDir": "Readwise",
+  "frequency": "0",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 9570761,
+  "currentSyncStatusID": 0,
+  "refreshBooks": false,
+  "booksToRefresh": [],
+  "booksIDsMap": {
+    "Readwise/Books/How to Win Friends and Influence People.md": "27270270",
+    "Readwise/Books/The Quick and Easy Way to Effective Speaking.md": "27270269",
+    "Readwise/Books/A Mind for Numbers.md": "27270268",
+    "Readwise/Books/Algorithms.md": "27270267",
+    "Readwise/Books/Mindset.md": "27270266",
+    "Readwise/Books/A História Do Mundo Para Quem Tem Pressa.md": "27270265",
+    "Readwise/Books/The Coding Career Handbook.md": "27422246",
+    "Readwise/Articles/Book Summary The Effective Engineer.md": "28774189",
+    "Readwise/Articles/Why Learning System Design on the Job Is So Hard.md": "29013230",
+    "Readwise/Articles/Book Review  Wardley Mapping.md": "29043745",
+    "Readwise/Articles/How to Break Bad Habits - Talk With @ThePrimeagen Senior Software Engineer at Netflix​.md": "29659266",
+    "Readwise/Articles/When Systems Collide.md": "29668597",
+    "Readwise/Articles/The Rise of the AI Engineer.md": "29657539",
+    "Readwise/Articles/Cloud Development Environments.md": "29669204",
+    "Readwise/Articles/The State of the Tech Market in 2023.md": "29669918",
+    "Readwise/Books/Understanding Distributed Systems.md": "29229287",
+    "Readwise/Articles/Stop Being a Junior.md": "30131355"
+  },
+  "reimportShowConfirmation": true
+}

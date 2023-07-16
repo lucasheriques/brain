@@ -11,8 +11,12 @@
             "id": "1cd8eb39cd724c1b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🍰 Receitas/Doces/chocolate quente belga.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#react",
+                "query": "tag:#articles",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -68,6 +72,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "72eb7f4904966b71",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -89,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🍰 Receitas/Doces/chocolate quente belga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🍰 Receitas/Doces/chocolate quente belga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🍰 Receitas/Doces/chocolate quente belga.md"
+              }
             }
           },
           {
@@ -161,40 +177,45 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "1cd8eb39cd724c1b",
   "lastOpenFiles": [
-    "🖥️ Software Engineering/React/Joy of React/Module 2 - Working With State/2 - The useState Hook.md",
-    "🖥️ Software Engineering/React/Joy of React/Module 2 - Working With State/1 - Event Handlers.md",
-    "🖥️ Software Engineering/React/Joy of React/Module 1 - React Fundamentals/1 - Hello React.md",
-    "🖥️ Software Engineering/React/Joy of React/Module 1 - React Fundamentals/Build Your Own React.md",
-    "🍰 Receitas/Salgadas/Pão de Frango ou Massa de Pizza.md",
-    "🍰 Receitas/Salgadas/Pão Low carb.md",
-    "🍰 Receitas/Salgadas/Molho big tasty.md",
-    "🍰 Receitas/Doces/Mouse Oreo falso.md",
-    "🍰 Receitas/Doces/chocolate quente belga.md",
-    "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
-    "🖥️ Software Engineering/General Web Development/Accessibility.md",
-    "🖥️ Software Engineering/CSS for JS Devs/Module 1 - Rendering Logic I/CSS Box Model.md",
-    "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
-    "🖥️ Software Engineering/Linchpin - Are You Indispensable?.md",
-    "🧠 Brain Dump/Brain Dump.md",
-    "🖥️ Software Engineering/React/Joy of React/Module 6 - Full Stack React",
-    "SOP.md",
-    "Águas de Krastélia.md",
-    "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/Introduction and Guidelines.md",
-    "🖥️ Software Engineering/Databases/MySQL/Schema/6 - Long strings.md",
-    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/9 - Portals.md",
-    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/8 - Immer.md",
-    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/7 - useReducer.md",
-    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/6 - Principle of Least Privilege.md",
-    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/5 - Single Source of Truth.md",
-    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/4 - Lifting Content Up.md",
-    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/2 - Elements Revisited.md",
-    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/3 - Deriving State.md",
+    "🍰 Receitas/Doces/Cookie low carb.md",
+    "🖥️ Software Engineering/Refactoring/1 - Long Methods.md",
+    "🖥️ Software Engineering/Refactoring/Intro.md",
+    "🖥️ Software Engineering/React/Why We Test.md",
+    "Readwise/Books/A Mind for Numbers.md",
+    "Readwise/Articles/The State of the Tech Market in 2023.md",
+    "Readwise/Articles/When Systems Collide.md",
+    "Readwise/Articles/The Rise of the AI Engineer.md",
+    "Readwise/Articles/Stop Being a Junior.md",
+    "Readwise/Articles/Cloud Development Environments.md",
+    "Readwise/Articles/How to Break Bad Habits - Talk With @ThePrimeagen Senior Software Engineer at Netflix​.md",
+    "Readwise/Articles/Book Summary The Effective Engineer.md",
+    "Readwise/Articles/Book Review  Wardley Mapping.md",
+    "Joe Schafer.md",
+    "Gergely Orosz.md",
+    "Reading Backlog.md",
     "CleanShot 2023-06-01 at 22.59.03.png",
+    "🖥️ Software Engineering/Resources.md",
+    "Readwise/Articles/Why Learning System Design on the Job Is So Hard.md",
+    "Readwise/Books/A História Do Mundo Para Quem Tem Pressa.md",
+    "Readwise/Books/Understanding Distributed Systems.md",
+    "Readwise/Articles",
+    "Readwise/Books/The Coding Career Handbook.md",
+    "Readwise/Books/Mindset.md",
+    "Readwise/Books/Algorithms.md",
+    "Readwise/Books/The Quick and Easy Way to Effective Speaking.md",
+    "Readwise/Books/How to Win Friends and Influence People.md",
+    "Readwise/Books",
+    "Readwise",
+    "Day Planners/Day Planner-20230716.md",
+    "Day Planners",
+    "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
+    "🖥️ Software Engineering/React/Joy of React/Module 6 - Full Stack React",
     "🖥️ Software Engineering/Image Generation",
     "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/ChatGPT Prompt Engineering for Developers.canvas",
     "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs",
@@ -202,10 +223,6 @@
     "🖥️ Software Engineering/ChatGPT Prompt Engineering for Developers/Untitled.canvas",
     "🖥️ Software Engineering/ChatGPT Prompt Engineering for Developers",
     "🖥️ Software Engineering/Web",
-    "🖥️ Software Engineering/A Life Engineered",
-    "ChatGPT",
-    "🖥️ Software Engineering/Databases/MySQL/Indexes",
-    "🖥️ Software Engineering/Databases/MySQL",
     "🖥️ Software Engineering/Databases/MySQL for App Developers/Schema.canvas",
     "Untitled.canvas"
   ]
