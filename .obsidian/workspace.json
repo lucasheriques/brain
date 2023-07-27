@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "3ad4a0dd6ef27c8c",
+        "id": "e7d60c2b78dbf8ee",
         "type": "tabs",
         "children": [
           {
-            "id": "1cd8eb39cd724c1b",
+            "id": "32eb49683b211c3d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4600bd25382fa9b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍰 Receitas/Doces/chocolate quente belga.md",
+                "file": "gontijo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍰 Receitas/Doces/chocolate quente belga.md",
+                "file": "gontijo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🍰 Receitas/Doces/chocolate quente belga.md",
+                "file": "gontijo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🍰 Receitas/Doces/chocolate quente belga.md"
+                "file": "gontijo.md"
               }
             }
           },
@@ -181,38 +190,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1cd8eb39cd724c1b",
+  "active": "4600bd25382fa9b1",
   "lastOpenFiles": [
-    "🍰 Receitas/Doces/Cookie low carb.md",
-    "🖥️ Software Engineering/Refactoring/1 - Long Methods.md",
-    "🖥️ Software Engineering/Refactoring/Intro.md",
-    "🖥️ Software Engineering/React/Why We Test.md",
-    "Readwise/Books/A Mind for Numbers.md",
-    "Readwise/Articles/The State of the Tech Market in 2023.md",
+    "gontijo.md",
+    "Day Planners/Day Planner-20230727.md",
+    "Day Planners/Day Planner-20230726.md",
+    "Day Planners/Day Planner-20230725.md",
+    "Day Planners/Day Planner-20230724.md",
+    "Day Planners/Day Planner-20230723.md",
+    "Readwise/Articles/Why Learning System Design on the Job Is So Hard.md",
     "Readwise/Articles/When Systems Collide.md",
-    "Readwise/Articles/The Rise of the AI Engineer.md",
+    "Readwise/Articles/The State of the Tech Market in 2023.md",
     "Readwise/Articles/Stop Being a Junior.md",
     "Readwise/Articles/Cloud Development Environments.md",
-    "Readwise/Articles/How to Break Bad Habits - Talk With @ThePrimeagen Senior Software Engineer at Netflix​.md",
     "Readwise/Articles/Book Summary The Effective Engineer.md",
     "Readwise/Articles/Book Review  Wardley Mapping.md",
-    "Joe Schafer.md",
-    "Gergely Orosz.md",
-    "Reading Backlog.md",
+    "Day Planners/Day Planner-20230722.md",
+    "Day Planners/Day Planner-20230721.md",
+    "Day Planners/Day Planner-20230720.md",
+    "Day Planners/Day Planner-20230719.md",
+    "Day Planners/Day Planner-20230718.md",
+    "Day Planners/Day Planner-20230717.md",
+    "🖼️ Images/pizza-frango 1.png",
+    "🍰 Receitas/Salgadas/Molho big tasty.md",
+    "🍰 Receitas/Salgadas/Pão de Frango ou Massa de Pizza.md",
+    "🍰 Receitas/Salgadas/Pão Low carb.md",
+    "🍰 Receitas/Doces/Palha italiana.md",
+    "🍰 Receitas/Doces/Mouse Oreo falso.md",
+    "🍰 Receitas/Doces/Cookie low carb.md",
+    "🍰 Receitas/Doces/chocolate quente belga.md",
     "CleanShot 2023-06-01 at 22.59.03.png",
-    "🖥️ Software Engineering/Resources.md",
-    "Readwise/Articles/Why Learning System Design on the Job Is So Hard.md",
-    "Readwise/Books/A História Do Mundo Para Quem Tem Pressa.md",
-    "Readwise/Books/Understanding Distributed Systems.md",
     "Readwise/Articles",
-    "Readwise/Books/The Coding Career Handbook.md",
-    "Readwise/Books/Mindset.md",
-    "Readwise/Books/Algorithms.md",
-    "Readwise/Books/The Quick and Easy Way to Effective Speaking.md",
-    "Readwise/Books/How to Win Friends and Influence People.md",
     "Readwise/Books",
     "Readwise",
-    "Day Planners/Day Planner-20230716.md",
     "Day Planners",
     "🖥️ Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
     "🖥️ Software Engineering/React/Joy of React/Module 6 - Full Stack React",
