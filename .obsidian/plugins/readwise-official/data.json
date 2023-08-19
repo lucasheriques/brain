@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 9959952,
+  "lastSavedStatusID": 10064005,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
@@ -26,7 +26,10 @@
     "Readwise/Articles/Cloud Development Environments.md": "29669204",
     "Readwise/Articles/The State of the Tech Market in 2023.md": "29669918",
     "Readwise/Books/Understanding Distributed Systems.md": "29229287",
-    "Readwise/Articles/Stop Being a Junior.md": "30131355"
+    "Readwise/Articles/Stop Being a Junior.md": "30131355",
+    "Readwise/Articles/The Pulse #58 Zoom; An RTO Turning Point.md": "31146830",
+    "Readwise/Articles/The 2023 Tech Market, as Seen by Hiring Managers.md": "31147404",
+    "Readwise/Books/The Staff Engineer's Path.md": "31283495"
   },
   "reimportShowConfirmation": true
 }
