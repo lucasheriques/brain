@@ -1,21 +1,24 @@
 	
 # Software Engineering Books
 
-1. [[The Coding Career Handbook]]
 2. [The Effective Engineer](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107?crid=3482O5ZQCNVFR&keywords=effective+engineer&qid=1682966631&sprefix=effective+engine,aps,296&sr=8-1) (physical)
-3. [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)
-4. [[Designing Data Intensive Applications]]
-5. https://structy.net/#features
-6. [The Good Parts of AWS](https://dvassallo.gumroad.com/l/aws-good-parts)[]()
-8. Staff Engineer: Leadership beyond the management track
-9. An Elegant Puzzle: Systems of Engineering Management
-11. [De-Coding the Interview Process](https://technicalinterviews.dev/)
-12. [Just Javascript](https://justjavascript.com/)
-13. Domain Driven Design - Eric Evans
-14. https://structy.net/#features
-15. Blitzscaling: The Lightning-Fast Path to Building Massively Valuable
-16. Rework Jason Fried
+3. The Software Craftsman
+4. Working Effectively with Legacy Code
+1. [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)
+2. [[Designing Data Intensive Applications]]
+3. https://structy.net/#features
+4. [The Good Parts of AWS](https://dvassallo.gumroad.com/l/aws-good-parts)[]()
+5. Staff Engineer: Leadership beyond the management track
+6. An Elegant Puzzle: Systems of Engineering Management
+7. [De-Coding the Interview Process](https://technicalinterviews.dev/)
+8. [Just Javascript](https://justjavascript.com/)
+9. Domain Driven Design - Eric Evans
+10. https://structy.net/#features
+11. Blitzscaling: The Lightning-Fast Path to Building Massively Valuable
+12. Rework Jason Fried
 
+
+look more at: https://twitter.com/thiagoghisi/status/1604554739156258816
 
 # Productivity books
 

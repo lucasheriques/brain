@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✍️ Writing/React Server Components using Next vs Node + HTMX vs Golang + HTMX.md",
+                "file": "📚 Books/Backlog.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✍️ Writing/React Server Components using Next vs Node + HTMX vs Golang + HTMX.md",
+                "file": "📚 Books/Backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✍️ Writing/React Server Components using Next vs Node + HTMX vs Golang + HTMX.md",
+                "file": "📚 Books/Backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✍️ Writing/React Server Components using Next vs Node + HTMX vs Golang + HTMX.md"
+                "file": "📚 Books/Backlog.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "912c2785c1e35823",
   "lastOpenFiles": [
-    "✍️ Writing/Growing beyond fullstack (queues and cronjobs).md",
     "✍️ Writing/React Server Components using Next vs Node + HTMX vs Golang + HTMX.md",
+    "✍️ Writing/Growing beyond fullstack (queues and cronjobs).md",
     "🖥️ Software Engineering/React/Joy of React/Module 6 - Full Stack React/Client vs Server Rendering.md",
     "Pasted image 20230820003017.png",
     "🖥️ Software Engineering/React/Joy of React/Module 2 - Working With State/7 - Component Instance.md",
