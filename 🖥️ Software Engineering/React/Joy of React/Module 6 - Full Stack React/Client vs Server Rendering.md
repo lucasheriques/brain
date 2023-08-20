@@ -19,3 +19,11 @@ Client Side Rendering Illustration
 
 # Hydration
 
+When the HTML first loads, it doesn't have any interactivity.
+
+Hydration is where we add it. At a high level:
+
+- React performs a "speed render" to figure out the shape of the component tree, then initializes the [[7 - Component Instance]].
+- Wire up all interactivity (event listeners, refs, etc).
+
+![[Pasted image 20230820003017.png]]

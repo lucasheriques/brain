@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖥️ Software Engineering/React/Joy of React/Module 6 - Full Stack React/Client vs Server Rendering.md",
+                "file": "✍️ Writing/React Server Components using Next vs Node + HTMX vs Golang + HTMX.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#articles",
+                "query": "\"A pure component will re-render\"",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Software Engineering/React/Joy of React/Module 6 - Full Stack React/Client vs Server Rendering.md",
+                "file": "✍️ Writing/React Server Components using Next vs Node + HTMX vs Golang + HTMX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Software Engineering/React/Joy of React/Module 6 - Full Stack React/Client vs Server Rendering.md",
+                "file": "✍️ Writing/React Server Components using Next vs Node + HTMX vs Golang + HTMX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Software Engineering/React/Joy of React/Module 6 - Full Stack React/Client vs Server Rendering.md"
+                "file": "✍️ Writing/React Server Components using Next vs Node + HTMX vs Golang + HTMX.md"
               }
             }
           },
@@ -183,11 +183,17 @@
   },
   "active": "912c2785c1e35823",
   "lastOpenFiles": [
+    "✍️ Writing/Growing beyond fullstack (queues and cronjobs).md",
+    "✍️ Writing/React Server Components using Next vs Node + HTMX vs Golang + HTMX.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 6 - Full Stack React/Client vs Server Rendering.md",
+    "Pasted image 20230820003017.png",
+    "🖥️ Software Engineering/React/Joy of React/Module 2 - Working With State/7 - Component Instance.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.1 - React.memo (Pure Components).md",
+    "🖥️ Software Engineering/React/Joy of React/Module 3 - React Hooks/8.2 - The useMemo hook.md",
     "🖼️ Images/react/client-side-rendering.png",
     "🖼️ Images/react",
     "🖼️ Images/react/server-side-rendering.png",
     "CleanShot 2023-06-01 at 22.59.03.png",
-    "🖥️ Software Engineering/React/Joy of React/Module 6 - Full Stack React/Client vs Server Rendering.md",
     "Readwise/Books/How to Win Friends and Influence People.md",
     "Readwise/Books/The Coding Career Handbook.md",
     "Readwise/Books/The Staff Engineer's Path.md",
@@ -209,10 +215,6 @@
     "🖥️ Software Engineering/Image Generation/prompt builder.md",
     "🖥️ Software Engineering/GraphQL/GraphQL.md",
     "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
-    "📚 Books/Backlog.md",
-    "📚 Books/Designing Data Intensive Applications.md",
-    "📚 Books/The Coding Career Handbook.md",
-    "Untitled 1.md",
     "🖼️ Images/pizza-frango 1.png",
     "Readwise/Articles",
     "Readwise/Books",
