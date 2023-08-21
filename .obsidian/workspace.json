@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Books/Backlog.md",
+                "file": "Design/Places to learn 3D illustrations.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Books/Backlog.md",
+                "file": "Design/Places to learn 3D illustrations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚 Books/Backlog.md",
+                "file": "Design/Places to learn 3D illustrations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Books/Backlog.md"
+                "file": "Design/Places to learn 3D illustrations.md"
               }
             }
           },
@@ -183,6 +183,11 @@
   },
   "active": "912c2785c1e35823",
   "lastOpenFiles": [
+    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/1 - Leveraging Keys.md",
+    "Design/Places to learn 3D illustrations.md",
+    "Design",
+    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/4 - Lifting Content Up.md",
+    "📚 Books/Backlog.md",
     "✍️ Writing/React Server Components using Next vs Node + HTMX vs Golang + HTMX.md",
     "✍️ Writing/Growing beyond fullstack (queues and cronjobs).md",
     "🖥️ Software Engineering/React/Joy of React/Module 6 - Full Stack React/Client vs Server Rendering.md",
@@ -211,10 +216,6 @@
     "Day Planners/Day Planner-20230814.md",
     "Day Planners/Day Planner-20230813.md",
     "🖥️ Software Engineering/JavaScript and TypeScript/Closures.md",
-    "🖥️ Software Engineering/JavaScript and TypeScript/Good websites.md",
-    "🖥️ Software Engineering/Image Generation/prompt builder.md",
-    "🖥️ Software Engineering/GraphQL/GraphQL.md",
-    "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
     "🖼️ Images/pizza-frango 1.png",
     "Readwise/Articles",
     "Readwise/Books",
@@ -226,7 +227,6 @@
     "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs",
     "🖥️ Software Engineering/LLMs",
     "🖥️ Software Engineering/ChatGPT Prompt Engineering for Developers/Untitled.canvas",
-    "🖥️ Software Engineering/ChatGPT Prompt Engineering for Developers",
     "🖥️ Software Engineering/Databases/MySQL for App Developers/Schema.canvas",
     "Untitled.canvas"
   ]
