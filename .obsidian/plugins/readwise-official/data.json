@@ -6,7 +6,7 @@
   "isSyncing": false,
   "lastSyncFailed": false,
   "lastSavedStatusID": 10064005,
-  "currentSyncStatusID": 0,
+  "currentSyncStatusID": 10107747,
   "refreshBooks": false,
   "booksToRefresh": [],
   "booksIDsMap": {
@@ -29,7 +29,11 @@
     "Readwise/Articles/Stop Being a Junior.md": "30131355",
     "Readwise/Articles/The Pulse #58 Zoom; An RTO Turning Point.md": "31146830",
     "Readwise/Articles/The 2023 Tech Market, as Seen by Hiring Managers.md": "31147404",
-    "Readwise/Books/The Staff Engineer's Path.md": "31283495"
+    "Readwise/Books/The Staff Engineer's Path.md": "31283495",
+    "Readwise/Articles/Concise Explanations Accelerate Progress.md": "31391278",
+    "Readwise/Tweets/Tweets From Charity Majors.md": "31391373",
+    "Readwise/Articles/Why We Memo All the Things.md": "31412448",
+    "Readwise/Articles/Things You Forgot (Or Never Knew) Because of React.md": "31437935"
   },
   "reimportShowConfirmation": true
 }
