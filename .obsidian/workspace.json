@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design/Places to learn 3D illustrations.md",
+                "file": "Career/Backlog.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design/Places to learn 3D illustrations.md",
+                "file": "Career/Backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design/Places to learn 3D illustrations.md",
+                "file": "Career/Backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design/Places to learn 3D illustrations.md"
+                "file": "Career/Backlog.md"
               }
             }
           },
@@ -183,8 +183,21 @@
   },
   "active": "912c2785c1e35823",
   "lastOpenFiles": [
-    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/1 - Leveraging Keys.md",
+    "🖥️ Software Engineering/A Life Engineered/Three Things Preventing Your Promotion to Senior Engineer (from a Principal at Amazon).md",
+    "Career/Backlog.md",
+    "Career",
+    "🖥️ Software Engineering/Linchpin - Are You Indispensable?.md",
+    "🖥️ Software Engineering/Mac Setup Guide.md",
+    "🖥️ Software Engineering/7 interviews 7 offers (senior engineer at Netflix).md",
+    "🧠 Brain Dump/Useful things to know regarding my software dev career.md",
+    "🧠 Brain Dump/Overcoming Procrastination.md",
     "Design/Places to learn 3D illustrations.md",
+    "Readwise/Articles/Things You Forgot (Or Never Knew) Because of React.md",
+    "Readwise/Articles/Why We Memo All the Things.md",
+    "Readwise/Tweets/Tweets From Charity Majors.md",
+    "Readwise/Tweets",
+    "Readwise/Articles/Concise Explanations Accelerate Progress.md",
+    "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/1 - Leveraging Keys.md",
     "Design",
     "🖥️ Software Engineering/React/Joy of React/Module 5 - Happy Practices/4 - Lifting Content Up.md",
     "📚 Books/Backlog.md",
@@ -204,18 +217,7 @@
     "Readwise/Books/The Staff Engineer's Path.md",
     "ChatGPT/Prompts.md",
     "Readwise/Articles/The 2023 Tech Market, as Seen by Hiring Managers.md",
-    "Readwise/Articles/The Pulse #58 Zoom; An RTO Turning Point.md",
-    "ChatGPT/ChatGPT Prompt Engineering for Developers.md",
-    "🖥️ Software Engineering/JavaScript and TypeScript/Great TypeScript or React Libs.md",
-    "Day Planners/Day Planner-20230819.md",
     "Day Planners",
-    "Day Planners/Day Planner-20230818.md",
-    "Day Planners/Day Planner-20230817.md",
-    "Day Planners/Day Planner-20230816.md",
-    "Day Planners/Day Planner-20230815.md",
-    "Day Planners/Day Planner-20230814.md",
-    "Day Planners/Day Planner-20230813.md",
-    "🖥️ Software Engineering/JavaScript and TypeScript/Closures.md",
     "🖼️ Images/pizza-frango 1.png",
     "Readwise/Articles",
     "Readwise/Books",
@@ -224,8 +226,6 @@
     "🖥️ Software Engineering/React/Joy of React/Module 6 - Full Stack React",
     "🖥️ Software Engineering/Image Generation",
     "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs/ChatGPT Prompt Engineering for Developers.canvas",
-    "🖥️ Software Engineering/LLMs/Prompt Engineering for Devs",
-    "🖥️ Software Engineering/LLMs",
     "🖥️ Software Engineering/ChatGPT Prompt Engineering for Developers/Untitled.canvas",
     "🖥️ Software Engineering/Databases/MySQL for App Developers/Schema.canvas",
     "Untitled.canvas"
