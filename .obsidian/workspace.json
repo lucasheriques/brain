@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ce605ecec274330",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coffee shops to work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design/Places to learn 3D illustrations.md",
+                "file": "Coffee shops to work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design/Places to learn 3D illustrations.md",
+                "file": "Coffee shops to work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design/Places to learn 3D illustrations.md"
+                "file": "Coffee shops to work.md"
               }
             }
           },
@@ -181,8 +194,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "912c2785c1e35823",
+  "active": "7ce605ecec274330",
   "lastOpenFiles": [
+    "Design/Places to learn 3D illustrations.md",
+    "Coffee shops to work.md",
     "Writing/psql error connection to server on socket PSQL.5432.md",
     "Writing/previewing doc files on browser.md",
     "Writing/Untitled.md",
@@ -208,8 +223,6 @@
     "Software Engineering/React/Joy of React/Module 6 - Full Stack React/Client vs Server Rendering.md",
     "Software Engineering/React/Joy of React/Module 5 - Happy Practices/9 - Portals.md",
     "Software Engineering/React/Joy of React/Module 5 - Happy Practices/8 - Immer.md",
-    "Software Engineering/React/Joy of React/Module 5 - Happy Practices/7 - useReducer.md",
-    "Software Engineering/React/Joy of React/Module 5 - Happy Practices/6 - Principle of Least Privilege.md",
     "Software Engineering/React/Joy of React/Tools of the Trade",
     "Software Engineering/React/Joy of React/Module 6 - Full Stack React",
     "Software Engineering/React/Joy of React/Module 5 - Happy Practices",
