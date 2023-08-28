@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design/Places to learn 3D illustrations.md",
+                "file": "Recipes to try.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"A pure component will re-render\"",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design/Places to learn 3D illustrations.md",
+                "file": "Recipes to try.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design/Places to learn 3D illustrations.md",
+                "file": "Recipes to try.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design/Places to learn 3D illustrations.md"
+                "file": "Recipes to try.md"
               }
             }
           },
@@ -183,8 +183,9 @@
   },
   "active": "912c2785c1e35823",
   "lastOpenFiles": [
-    "bills.md",
+    "Career/Backlog.md",
     "Design/Places to learn 3D illustrations.md",
+    "bills.md",
     "Coffee shops to work.md",
     "Writing/psql error connection to server on socket PSQL.5432.md",
     "Writing/previewing doc files on browser.md",
@@ -209,7 +210,6 @@
     "Writing",
     "Software Engineering/React/Joy of React/Tools of the Trade/Webpack.md",
     "Software Engineering/React/Joy of React/Module 6 - Full Stack React/Client vs Server Rendering.md",
-    "Software Engineering/React/Joy of React/Module 5 - Happy Practices/9 - Portals.md",
     "Software Engineering/React/Joy of React/Tools of the Trade",
     "Software Engineering/React/Joy of React/Module 6 - Full Stack React",
     "Software Engineering/React/Joy of React/Module 5 - Happy Practices",
