@@ -12,3 +12,7 @@
 - Bad code quality is the trademark of a bad software engineer
 - You can always throw more hours to increase code quantity, but the same cannot be said for quality
 - Apply 80/20 rule for quality
+
+## Code Velocity
+- Pick 1 tech stack and stick with it
+- 
