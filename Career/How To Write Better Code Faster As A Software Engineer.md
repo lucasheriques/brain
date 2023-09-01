@@ -23,4 +23,9 @@
 - Common failure mode is going to every meeting on your calendar
 - Skip meetings where you aren't a major player
 	- Always retrospect on meeting value
+
+## Establish Focus Blocks
+- Having a solid time to focus is important for an engineer's job
+- Coding is heavily momentum oriented
+	- Takes time to set up context/environment
 - 
