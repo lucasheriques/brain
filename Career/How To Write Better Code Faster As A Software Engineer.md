@@ -15,4 +15,6 @@
 
 ## Code Velocity
 - Pick 1 tech stack and stick with it
-- 
+- It takes 2-4 years on average to be very proficient
+- Avoid being "full-stack"
+- Don't switch stacks to maximize job opportunity
