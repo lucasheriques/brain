@@ -18,3 +18,9 @@
 - It takes 2-4 years on average to be very proficient
 - Avoid being "full-stack"
 - Don't switch stacks to maximize job opportunity
+
+## Be Tactical With Meetings
+- Common failure mode is going to every meeting on your calendar
+- Skip meetings where you aren't a major player
+	- Always retrospect on meeting value
+- 
