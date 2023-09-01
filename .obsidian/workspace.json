@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career/Backlog.md",
+                "file": "Career/How To Write Better Code Faster As A Software Engineer.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career/How To Write Better Code Faster As A Software Engineer.md",
+                "file": "ChatGPT/Prompts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,10 +193,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "14841c9dcebb4080",
+  "active": "912c2785c1e35823",
   "lastOpenFiles": [
-    "Career/Backlog.md",
+    "ChatGPT/Prompts.md",
+    "ChatGPT/ChatGPT Prompt Engineering for Developers.md",
     "Career/How To Write Better Code Faster As A Software Engineer.md",
+    "Career/Backlog.md",
     "Recipes to try.md",
     "YoPro vs Whey.md",
     "Design/Places to learn 3D illustrations.md",
@@ -220,8 +221,6 @@
     "Writing/Fixing postbuild and prebuild with pnpm.md",
     "Writing/Doing better on engineering interviews.md",
     "Writing/Design Patterns Every Developer Should Know.md",
-    "Writing/Deploying a T3 app to SST.md",
-    "Writing/Choosing a GraphQL Backend Service.md",
     "Writing",
     "Software Engineering/React/Joy of React/Tools of the Trade",
     "Software Engineering/React/Joy of React/Module 6 - Full Stack React",
