@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career/How To Write Better Code Faster As A Software Engineer.md",
+                "file": "Career/FEM Backlog.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career/How To Write Better Code Faster As A Software Engineer.md",
+                "file": "Career/FEM Backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career/How To Write Better Code Faster As A Software Engineer.md",
+                "file": "Career/FEM Backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career/How To Write Better Code Faster As A Software Engineer.md"
+                "file": "Career/FEM Backlog.md"
               }
             }
           },
@@ -195,15 +195,16 @@
   },
   "active": "912c2785c1e35823",
   "lastOpenFiles": [
+    "bills.md",
+    "Career/FEM Backlog.md",
+    "Career/How To Write Better Code Faster As A Software Engineer.md",
     "Readwise/Books/Brevidade Inteligente.md",
     "ChatGPT/Prompts.md",
     "ChatGPT/ChatGPT Prompt Engineering for Developers.md",
-    "Career/How To Write Better Code Faster As A Software Engineer.md",
     "Career/Backlog.md",
     "Recipes to try.md",
     "YoPro vs Whey.md",
     "Design/Places to learn 3D illustrations.md",
-    "bills.md",
     "Coffee shops to work.md",
     "Writing/psql error connection to server on socket PSQL.5432.md",
     "Writing/previewing doc files on browser.md",
@@ -220,7 +221,6 @@
     "Writing/High-Leverage Career Skills.md",
     "Writing/Growing beyond fullstack (queues and cronjobs).md",
     "Writing/Fixing postbuild and prebuild with pnpm.md",
-    "Writing/Doing better on engineering interviews.md",
     "Writing",
     "Software Engineering/React/Joy of React/Tools of the Trade",
     "Software Engineering/React/Joy of React/Module 6 - Full Stack React",
