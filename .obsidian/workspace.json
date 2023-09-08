@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career/FEM Backlog.md",
+                "file": "Career/Courses Backlog.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career/FEM Backlog.md",
+                "file": "Career/Courses Backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career/FEM Backlog.md",
+                "file": "Career/Courses Backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career/FEM Backlog.md"
+                "file": "Career/Courses Backlog.md"
               }
             }
           },
@@ -196,7 +196,7 @@
   "active": "912c2785c1e35823",
   "lastOpenFiles": [
     "bills.md",
-    "Career/FEM Backlog.md",
+    "Career/Courses Backlog.md",
     "Career/How To Write Better Code Faster As A Software Engineer.md",
     "Readwise/Books/Brevidade Inteligente.md",
     "ChatGPT/Prompts.md",
