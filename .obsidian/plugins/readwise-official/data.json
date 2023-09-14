@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 10332982,
-  "currentSyncStatusID": 10434468,
+  "lastSavedStatusID": 10434468,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
   "booksIDsMap": {
