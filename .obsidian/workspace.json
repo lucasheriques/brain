@@ -172,6 +172,16 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "53c58d639b969405",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
