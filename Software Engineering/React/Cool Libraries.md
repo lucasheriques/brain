@@ -9,4 +9,4 @@ Simple:
 
 # Data Viz
 - [Tremor - Charts](https://www.tremor.so/)
-- 
+- Nivo
