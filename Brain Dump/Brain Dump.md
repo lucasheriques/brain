@@ -3,7 +3,9 @@ removing test
 
 
 
+how to take a more active approach regarding learning? 
 
+currently I feel I con sume a lot of content, from taro, youtube, etc, but I would love your take on how to make it also give me real-world results from that. what would you do?
 
 
 

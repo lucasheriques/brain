@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/React/Cool Libraries.md",
+                "file": "Brain Dump/Brain Dump.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/React/Cool Libraries.md",
+                "file": "Brain Dump/Brain Dump.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/React/Cool Libraries.md",
+                "file": "Brain Dump/Brain Dump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/React/Cool Libraries.md"
+                "file": "Brain Dump/Brain Dump.md"
               }
             }
           },
@@ -205,6 +205,7 @@
   },
   "active": "912c2785c1e35823",
   "lastOpenFiles": [
+    "Software Engineering/React/Cool Libraries.md",
     "Career/Courses Backlog.md",
     "gol.md",
     "bills.md",
@@ -230,7 +231,6 @@
     "Writing/Improving GraphQL performance.md",
     "Writing/How to Build a Product that Scales into a Company.md",
     "Writing/High-Leverage Career Skills.md",
-    "Writing/Growing beyond fullstack (queues and cronjobs).md",
     "Writing",
     "Software Engineering/React/Joy of React/Tools of the Trade",
     "Software Engineering/React/Joy of React/Module 6 - Full Stack React",
