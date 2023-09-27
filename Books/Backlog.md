@@ -16,6 +16,9 @@
 10. https://structy.net/#features
 11. Blitzscaling: The Lightning-Fast Path to Building Massively Valuable
 12. Rework Jason Fried
+13. [Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
+14. [Pearls of Functional Algorithm Design](https://www.amazon.com/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383)
+15. 
 
 
 look more at: https://twitter.com/thiagoghisi/status/1604554739156258816

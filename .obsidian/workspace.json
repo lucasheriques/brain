@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brain Dump/Brain Dump.md",
+                "file": "Career/Backlog.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brain Dump/Brain Dump.md",
+                "file": "Career/Backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brain Dump/Brain Dump.md",
+                "file": "Career/Backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brain Dump/Brain Dump.md"
+                "file": "Career/Backlog.md"
               }
             }
           },
@@ -205,6 +205,10 @@
   },
   "active": "912c2785c1e35823",
   "lastOpenFiles": [
+    "Books/Backlog.md",
+    "Career/Backlog.md",
+    "Career/Reading Backlog.md",
+    "Brain Dump/Brain Dump.md",
     "Readwise/Tweets/Tweets From Kent C. Dodds 📡.md",
     "Readwise/Books/Zodiac Academy.md",
     "Software Engineering/React/Cool Libraries.md",
@@ -215,7 +219,6 @@
     "Readwise/Books/Brevidade Inteligente.md",
     "ChatGPT/Prompts.md",
     "ChatGPT/ChatGPT Prompt Engineering for Developers.md",
-    "Career/Backlog.md",
     "Recipes to try.md",
     "YoPro vs Whey.md",
     "Design/Places to learn 3D illustrations.md",
@@ -228,9 +231,6 @@
     "Writing/Serverless vs Kubernetes.md",
     "Writing/React Server Components using Next vs Node + HTMX vs Golang + HTMX.md",
     "Writing/Optimize for code readability.md",
-    "Writing/Making sense of z-index.md",
-    "Writing/Local development when using Serverless.md",
-    "Writing/Improving GraphQL performance.md",
     "Writing",
     "Software Engineering/React/Joy of React/Tools of the Trade",
     "Software Engineering/React/Joy of React/Module 6 - Full Stack React",
