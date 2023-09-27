@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 10434468,
+  "lastSavedStatusID": 10622051,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
@@ -30,7 +30,9 @@
     "Readwise/Articles/The Pulse #58 Zoom; An RTO Turning Point.md": "31146830",
     "Readwise/Articles/The 2023 Tech Market, as Seen by Hiring Managers.md": "31147404",
     "Readwise/Books/The Staff Engineer's Path.md": "31283495",
-    "Readwise/Books/Brevidade Inteligente.md": "31624201"
+    "Readwise/Books/Brevidade Inteligente.md": "31624201",
+    "Readwise/Books/Zodiac Academy.md": "32243038",
+    "Readwise/Tweets/Tweets From Kent C. Dodds 📡.md": "32270178"
   },
   "reimportShowConfirmation": true
 }
