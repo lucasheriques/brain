@@ -152,6 +152,16 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "3713e800b87eae11",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -175,6 +185,7 @@
   },
   "active": "be9b5bd0b13792f3",
   "lastOpenFiles": [
+    "intu.md",
     "Readwise/Books/Brevidade Inteligente.md",
     "Design/Places to learn 3D illustrations.md",
     "bills.md",
@@ -200,7 +211,6 @@
     "Writing/High-Leverage Career Skills.md",
     "Writing/Growing beyond fullstack (queues and cronjobs).md",
     "Writing/Fixing postbuild and prebuild with pnpm.md",
-    "Writing/Doing better on engineering interviews.md",
     "Writing",
     "Software Engineering/React/Joy of React/Tools of the Trade",
     "Software Engineering/React/Joy of React/Module 6 - Full Stack React",
