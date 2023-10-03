@@ -11,8 +11,12 @@
             "id": "be9b5bd0b13792f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Other stuff.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Other stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Other stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Other stuff.md"
+              }
             }
           },
           {
@@ -185,7 +193,9 @@
   },
   "active": "be9b5bd0b13792f3",
   "lastOpenFiles": [
-    "intu.md",
+    "Readwise/Articles/When Trying Harder Gets You Worse Results.md",
+    "Readwise/Articles/Fast-Track Your Career How I Went From Junior - Senior Engineer in 2 Years.md",
+    "Other stuff.md",
     "Readwise/Books/Brevidade Inteligente.md",
     "Design/Places to learn 3D illustrations.md",
     "bills.md",
@@ -209,8 +219,6 @@
     "Writing/Improving GraphQL performance.md",
     "Writing/How to Build a Product that Scales into a Company.md",
     "Writing/High-Leverage Career Skills.md",
-    "Writing/Growing beyond fullstack (queues and cronjobs).md",
-    "Writing/Fixing postbuild and prebuild with pnpm.md",
     "Writing",
     "Software Engineering/React/Joy of React/Tools of the Trade",
     "Software Engineering/React/Joy of React/Module 6 - Full Stack React",

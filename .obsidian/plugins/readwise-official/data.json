@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 10695743,
+  "lastSavedStatusID": 10717852,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
@@ -29,7 +29,9 @@
     "Readwise/Articles/Stop Being a Junior.md": "30131355",
     "Readwise/Articles/The Pulse #58 Zoom; An RTO Turning Point.md": "31146830",
     "Readwise/Articles/The 2023 Tech Market, as Seen by Hiring Managers.md": "31147404",
-    "Readwise/Books/The Staff Engineer's Path.md": "31283495"
+    "Readwise/Books/The Staff Engineer's Path.md": "31283495",
+    "Readwise/Articles/Fast-Track Your Career How I Went From Junior - Senior Engineer in 2 Years.md": "32771108",
+    "Readwise/Articles/When Trying Harder Gets You Worse Results.md": "32771142"
   },
   "reimportShowConfirmation": true
 }
