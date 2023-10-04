@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Backlog.md",
+                "file": "Other stuff.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Backlog.md",
+                "file": "Other stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Backlog.md",
+                "file": "Other stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Backlog.md"
+                "file": "Other stuff.md"
               }
             }
           },
@@ -193,12 +193,12 @@
   },
   "active": "be9b5bd0b13792f3",
   "lastOpenFiles": [
-    "Other stuff.md",
-    "Projects/Backlog.md",
-    "Untitled",
     "Untitled.md",
+    "Projects/Backlog.md",
+    "Projects",
     "Readwise/Articles/When Trying Harder Gets You Worse Results.md",
     "Readwise/Articles/Fast-Track Your Career How I Went From Junior - Senior Engineer in 2 Years.md",
+    "Other stuff.md",
     "Readwise/Books/Brevidade Inteligente.md",
     "Design/Places to learn 3D illustrations.md",
     "bills.md",
