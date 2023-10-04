@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other stuff.md",
+                "file": "Projects/Backlog.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other stuff.md",
+                "file": "Projects/Backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other stuff.md",
+                "file": "Projects/Backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other stuff.md"
+                "file": "Projects/Backlog.md"
               }
             }
           },
@@ -193,9 +193,12 @@
   },
   "active": "be9b5bd0b13792f3",
   "lastOpenFiles": [
+    "Other stuff.md",
+    "Projects/Backlog.md",
+    "Untitled",
+    "Untitled.md",
     "Readwise/Articles/When Trying Harder Gets You Worse Results.md",
     "Readwise/Articles/Fast-Track Your Career How I Went From Junior - Senior Engineer in 2 Years.md",
-    "Other stuff.md",
     "Readwise/Books/Brevidade Inteligente.md",
     "Design/Places to learn 3D illustrations.md",
     "bills.md",
@@ -217,8 +220,6 @@
     "Writing/Making sense of z-index.md",
     "Writing/Local development when using Serverless.md",
     "Writing/Improving GraphQL performance.md",
-    "Writing/How to Build a Product that Scales into a Company.md",
-    "Writing/High-Leverage Career Skills.md",
     "Writing",
     "Software Engineering/React/Joy of React/Tools of the Trade",
     "Software Engineering/React/Joy of React/Module 6 - Full Stack React",
@@ -230,7 +231,6 @@
     "Software Engineering/LLMs/Prompt Engineering for Devs/ChatGPT Prompt Engineering for Developers.canvas",
     "Software Engineering/Databases/MySQL/Schema",
     "Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
-    "Software Engineering/Databases/MySQL/Indexes",
     "Images/react/server-side-rendering.png",
     "Images/react/client-side-rendering.png",
     "Images/where-to-put-react-state.png",
