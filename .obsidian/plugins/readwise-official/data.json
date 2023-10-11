@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 10758306,
-  "currentSyncStatusID": 10850482,
+  "lastSavedStatusID": 10850482,
+  "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
   "booksIDsMap": {
@@ -31,7 +31,8 @@
     "Readwise/Articles/The 2023 Tech Market, as Seen by Hiring Managers.md": "31147404",
     "Readwise/Books/The Staff Engineer's Path.md": "31283495",
     "Readwise/Articles/Fast-Track Your Career How I Went From Junior - Senior Engineer in 2 Years.md": "32771108",
-    "Readwise/Articles/When Trying Harder Gets You Worse Results.md": "32771142"
+    "Readwise/Articles/When Trying Harder Gets You Worse Results.md": "32771142",
+    "Readwise/Books/Brevidade Inteligente.md": "31624201"
   },
   "reimportShowConfirmation": true
 }

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Airbnb SP.md",
+                "file": "Software Engineering/React/Joy of React/Module 5 - Happy Practices/10 - Revisiting Refs.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"A pure component will re-render\"",
+                "query": "new Intersection",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -94,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Airbnb SP.md",
+                "file": "Software Engineering/React/Joy of React/Module 5 - Happy Practices/10 - Revisiting Refs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Airbnb SP.md",
+                "file": "Software Engineering/React/Joy of React/Module 5 - Happy Practices/10 - Revisiting Refs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Airbnb SP.md"
+                "file": "Software Engineering/React/Joy of React/Module 5 - Happy Practices/10 - Revisiting Refs.md"
               }
             }
           },
@@ -206,8 +207,11 @@
   },
   "active": "bbc02cc0ec5e00e3",
   "lastOpenFiles": [
-    "Other stuff.md",
+    "Software Engineering/React/Snippets/useOnScreen.md",
+    "Software Engineering/React/Snippets/Creating a component that will be shown when it's visible.md",
+    "Software Engineering/React/Joy of React/Module 5 - Happy Practices/10 - Revisiting Refs.md",
     "Airbnb SP.md",
+    "Other stuff.md",
     "Untitled.md",
     "Projects/Backlog.md",
     "Projects",
@@ -230,9 +234,6 @@
     "Writing/Simplifying Product Development and Installation.md",
     "Writing/Serverless vs Kubernetes.md",
     "Writing/React Server Components using Next vs Node + HTMX vs Golang + HTMX.md",
-    "Writing/Optimize for code readability.md",
-    "Writing/Making sense of z-index.md",
-    "Writing/Local development when using Serverless.md",
     "Writing",
     "Software Engineering/React/Joy of React/Tools of the Trade",
     "Software Engineering/React/Joy of React/Module 6 - Full Stack React",

@@ -1,4 +1,4 @@
-fasdfa
+
 ```ts
 function useOnScreen<T extends Element>(ref: MutableRefObject<T>, rootMargin: string = "0px"): boolean {
   // State and setter for storing whether element is visible
