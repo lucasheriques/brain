@@ -17,4 +17,10 @@ If not clear what you're talking about, throw an emoji or some other graphic to 
 
 Catchy title and thumbnail is important as well.
 
-# YouTube Algorithm
+# YouTube Algorithm (Fiasco)
+Videos between 3-4min. Why? To get good watch times (2:30-2:45).
+
+Then, if you want a video to get viral, make a longer video. That video will get your watch times to be like 2-3x. Then, your video will be recommended much more times.
+
+So, alternate between short videos to increase channel retention time, and a few long videos to overall increase the avg watch time.
+
