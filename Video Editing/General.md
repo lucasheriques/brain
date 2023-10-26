@@ -27,3 +27,7 @@ So, alternate between short videos to increase channel retention time, and a few
 To increase engagement, make mistakes. People like to point out mistakes.
 
 Can also make different strategies, like worsening audio/changing volume on some parts of the video to increase the engagement (make people ask what you meant).
+
+# Ferramentas blog
+
+Ppl on youtube are searching for entertainment. So, make something informative, but it has to be fun and well-edited as well.
