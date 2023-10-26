@@ -24,3 +24,6 @@ Then, if you want a video to get viral, make a longer video. That video will get
 
 So, alternate between short videos to increase channel retention time, and a few long videos to overall increase the avg watch time.
 
+To increase engagement, make mistakes. People like to point out mistakes.
+
+Can also make different strategies, like worsening audio/changing volume on some parts of the video to increase the engagement (make people ask what you meant).
