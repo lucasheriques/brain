@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/React/Joy of React/Module 5 - Happy Practices/10 - Revisiting Refs.md",
+                "file": "Video Editing/General.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/React/Joy of React/Module 5 - Happy Practices/10 - Revisiting Refs.md",
+                "file": "Video Editing/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/React/Joy of React/Module 5 - Happy Practices/10 - Revisiting Refs.md",
+                "file": "Video Editing/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/React/Joy of React/Module 5 - Happy Practices/10 - Revisiting Refs.md"
+                "file": "Video Editing/General.md"
               }
             }
           },
@@ -207,9 +206,12 @@
   },
   "active": "bbc02cc0ec5e00e3",
   "lastOpenFiles": [
+    "Video Editing/Tips for making the video.md",
+    "Video Editing/General.md",
+    "Software Engineering/React/Joy of React/Module 5 - Happy Practices/10 - Revisiting Refs.md",
+    "Video Editing",
     "Software Engineering/React/Snippets/useOnScreen.md",
     "Software Engineering/React/Snippets/Creating a component that will be shown when it's visible.md",
-    "Software Engineering/React/Joy of React/Module 5 - Happy Practices/10 - Revisiting Refs.md",
     "Airbnb SP.md",
     "Other stuff.md",
     "Untitled.md",
@@ -232,8 +234,6 @@
     "Writing/Untitled.md",
     "Writing/The bias against front end developers.md",
     "Writing/Simplifying Product Development and Installation.md",
-    "Writing/Serverless vs Kubernetes.md",
-    "Writing/React Server Components using Next vs Node + HTMX vs Golang + HTMX.md",
     "Writing",
     "Software Engineering/React/Joy of React/Tools of the Trade",
     "Software Engineering/React/Joy of React/Module 6 - Full Stack React",
@@ -243,7 +243,6 @@
     "Software Engineering/React/Joy of React/Module 2 - Working With State",
     "Software Engineering/React/Joy of React/Module 1 - React Fundamentals",
     "Software Engineering/LLMs/Prompt Engineering for Devs/ChatGPT Prompt Engineering for Developers.canvas",
-    "Software Engineering/Databases/MySQL/Schema",
     "Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
     "Images/react/server-side-rendering.png",
     "Images/react/client-side-rendering.png",
