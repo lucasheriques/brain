@@ -1,0 +1,4 @@
+## New highlights added October 27, 2023 at 10:30 AM
+- What you are experiencing now is the alluring comfort of premature seniority. You’re the smartest kid in the room, you know every corner of the system inside and out, you win every argument and anticipate every objection and you are part of every decision and you feel so deeply, pleasingly *needed* by the people around you.
+  It’s a trap. ([View Highlight](https://read.readwise.io/read/01hdppenbqwnz1dkmpt7zkhe7k))
+- After you have gotten a new job or two, and proven to yourself that you can level up again and master new stacks and technologies, that fretful inner voice questioning whether you deserve the respect you receive or not will calm down. You will have proven to yourself that your success wasn’t just a one-off, that you can be dropped into any situation, learn the local ropes and succeed. You will be a senior engineer. ([View Highlight](https://read.readwise.io/read/01hdjgcbd7579qjw6r92an53w0))

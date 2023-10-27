@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 11066308,
+  "lastSavedStatusID": 11083664,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
@@ -32,7 +32,8 @@
     "Readwise/Books/The Staff Engineer's Path.md": "31283495",
     "Readwise/Articles/Fast-Track Your Career How I Went From Junior - Senior Engineer in 2 Years.md": "32771108",
     "Readwise/Articles/When Trying Harder Gets You Worse Results.md": "32771142",
-    "Readwise/Books/Brevidade Inteligente.md": "31624201"
+    "Readwise/Books/Brevidade Inteligente.md": "31624201",
+    "Readwise/Articles/Questionable Advice The Trap of the Premature Senior.md": "33516089"
   },
   "reimportShowConfirmation": true
 }
