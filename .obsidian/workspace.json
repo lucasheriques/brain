@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Video Editing/General.md",
+                "file": "Writing/Portuguese/Você não é um senior com dois anos de exp.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Video Editing/General.md",
+                "file": "Writing/Portuguese/Você não é um senior com dois anos de exp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Video Editing/General.md",
+                "file": "Writing/Portuguese/Você não é um senior com dois anos de exp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Video Editing/General.md"
+                "file": "Writing/Portuguese/Você não é um senior com dois anos de exp.md"
               }
             }
           },
@@ -206,17 +206,22 @@
   },
   "active": "bbc02cc0ec5e00e3",
   "lastOpenFiles": [
+    "Airbnb SP.md",
+    "Writing/Portuguese/Você não é um senior com dois anos de exp.md",
+    "Writing/Untitled.md",
+    "Writing/English/About me.md",
+    "Writing/Portuguese",
+    "Projects/Backlog.md",
+    "Writing/English",
+    "Video Editing/General.md",
     "Readwise/Articles/Questionable Advice The Trap of the Premature Senior.md",
     "Video Editing/Tips for making the video.md",
-    "Video Editing/General.md",
     "Software Engineering/React/Joy of React/Module 5 - Happy Practices/10 - Revisiting Refs.md",
     "Video Editing",
     "Software Engineering/React/Snippets/useOnScreen.md",
     "Software Engineering/React/Snippets/Creating a component that will be shown when it's visible.md",
-    "Airbnb SP.md",
     "Other stuff.md",
     "Untitled.md",
-    "Projects/Backlog.md",
     "Projects",
     "Readwise/Articles/When Trying Harder Gets You Worse Results.md",
     "Readwise/Articles/Fast-Track Your Career How I Went From Junior - Senior Engineer in 2 Years.md",
@@ -230,18 +235,13 @@
     "Career/How To Write Better Code Faster As A Software Engineer.md",
     "Career/Courses Backlog.md",
     "Coffee shops to work.md",
-    "Writing/psql error connection to server on socket PSQL.5432.md",
-    "Writing/previewing doc files on browser.md",
-    "Writing/Untitled.md",
-    "Writing/The bias against front end developers.md",
+    "Writing/English/psql error connection to server on socket PSQL.5432.md",
     "Writing",
     "Software Engineering/React/Joy of React/Tools of the Trade",
     "Software Engineering/React/Joy of React/Module 6 - Full Stack React",
     "Software Engineering/React/Joy of React/Module 5 - Happy Practices",
     "Software Engineering/React/Joy of React/Module 4 - Component API Design",
     "Software Engineering/React/Joy of React/Module 3 - React Hooks",
-    "Software Engineering/React/Joy of React/Module 2 - Working With State",
-    "Software Engineering/React/Joy of React/Module 1 - React Fundamentals",
     "Software Engineering/LLMs/Prompt Engineering for Devs/ChatGPT Prompt Engineering for Developers.canvas",
     "Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
     "Images/react/server-side-rendering.png",
