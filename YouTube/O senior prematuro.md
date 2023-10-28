@@ -1,20 +1,26 @@
 # Parte 1: Introdução
 
-Você não é um senior de verdade com dois anos de experiência em uma empresa só. 
+Você acha mesmo que é um sênior com apenas dois anos de experiência no seu primeiro emprego?
 
-No meu primeiro emprego pós faculdade, fui trabalhar pra uma startup americana sendo o primeiro engenheiro contratado do time. 
+No meu primeiro emprego pós faculdade, mergulhei de cabeça em uma startup americana como o primeiro engenheiro do time. E adivinha? Virei a referência! 
 
-À medida que o time cresceu, eu me tornei a referência. Conhecia o sistema todo do início ao fim, era parte de todas as decisões. Todo mundo vinha me procurar, eu me sentia importante e necessário.  
+Conhecia o sistema do início ao fim, estava em todas as reuniões importantes. Todo mundo vinha até mim com dúvidas. Ah, como eu me sentia especial!
 
-Era uma armadilha.   
+Acredite: é uma armadilha.
 
-O meu conhecimento técnico estagnou. Programava muito pouco, não tinham muitos problemas de arquitetura. Tava quase virando um gerente de produto.  
+Meu crescimento técnico? Parou no tempo. 
 
-Pra quem quer isso, beleza e dá para fazer a carreira por aí também.   
+Minha rotina de programação? Diminuiu drasticamente. 
 
-Mas, eu queria crescer muito ainda no conhecimento técnico. No lugar disso, eu ficava preso em reuniões, conduzindo entrevistas, e me longe da engenharia.  
+E problemas complexos de arquitetura? Quase inexistentes. 
 
-Eu estava em uma posição de liderança, mas, ironicamente, estava me afastando das minhas aspirações. Resolver problemas desafiantes. Lidar com times grandes. Chegar em staff+.
+Estava a um passo de virar um gerente de produto. E olha, se é isso que você quer, ótimo, é uma carreira excelente também!
+
+Mas eu? Eu ainda tinha uma sede maior por conhecimento técnico. 
+
+E, em vez de saciar essa sede, me vi atolado em reuniões intermináveis, entrevistas e cada vez mais distante do que eu realmente queria: a engenharia de software.
+
+Eu estava em uma posição de liderança, mas estava me afastando das minhas aspirações. Resolver problemas desafiantes. Lidar com times grandes. Chegar em staff+.
 
 # Parte 2: Analogia
 
@@ -26,27 +32,31 @@ Mas agora, imagine se você fosse uma onça, reinando na vastidão da floresta. 
 
 Ser o gatinho da casa é aconchegante. Você é o queridinho, todos te conhecem e te amam. Mas o mundo animal é muito mais vasto e desafiador.
 
-Não nos tornamos "onças" apenas dominando a sala de estar. É aconchegante ser o rei da sala, mas... e se te soltarem na vastidão da floresta? Como você se viraria
+Não nos tornamos "onças" apenas dominando a sala de estar. É aconchegante ser o rei da sala, mas... e se te soltarem na vastidão da floresta? Como você se viraria?
 
 Você se torna verdadeiramente uma "onça" quando sai da sua zona de conforto, enfrenta desafios maiores, explorar territórios desconhecidos e se prova no ambiente selvagem.
 
 # Parte 3: Conclusão
 
-E adivinha? Cada organização tem sua própria estratégia para fazer programas. Não há uma fórmula mágica universal. Existem apenas diferentes abordagens e compensações (tradeoffs). A parte difícil de verdade? Aprender a se adaptar a cada uma delas.
+E adivinha? Numa empresa é bem parecido.
+
+Cada organização tem sua própria estratégia para fazer programas. Não há uma fórmula mágica universal. Existem apenas diferentes abordagens e compensações (tradeoffs). A parte difícil de verdade? Aprender a se adaptar a cada uma delas.
 
 Você já se sentiu como o veterano do time, pensando que já viu tudo? E de repente, você muda de equipe e tudo é um território inexplorado novamente.
 
 Recomeçar é como... dar um mergulho em uma cachoeira gelada após um dia quente (esse ano que o diga). Revigora. Renova. E, claro, dá aquele choque inicial.
 
-Mas o mais incrível disso? É a humildade que traz. Te reconecta com a sensação de ser o novato, de encarar desafios com uma perspectiva nova. E isso, meu amigo, vale ouro!
+Mas isso te reconecta com a sensação de ser o novato, de encarar desafios com uma perspectiva nova. Te traz humildade. E isso, meu amigo, vale ouro!
 
 Se você se prende demais ao status de "sênior", ao sentimento de ser insubstituível, pode esquecer a arte de influenciar sem depender apenas do seu título.
 
 E é exatamente essa jornada que estou vivendo. Deixei o que era familiar e me joguei no desconhecido. De um emprego de quase três anos para uma floresta nova.
 
-Pessoal novo, stack nova, um mundo completamente diferente. E aqui estou, navegando, aprendendo e me superando a cada passo.
+Pessoal novo, stack nova, um mundo completamente diferente. E aqui eu sigo, caminhando, e tentando me superar a cada passo.
 
-Porque entrar em uma nova equipe não é só sobre se adaptar, mas sobre contribuir para um ambiente onde até os novatos são valorizados e não apenas seguem ordens.
+Entrar em uma nova equipe não é apenas sobre adaptação. É sobre contribuir para um ambiente onde até os novatos são valorizados, onde eles fazem mais do que só tarefas.
+
+Ao se tornar um novato novamente, você tem a oportunidade única de moldar e influenciar esse ambiente. Assim, no futuro, outros também terão um espaço excelente para crescer e se desenvolver.
 
 O verdadeiro engenheiro sênior? É aquele que pode ser lançado em qualquer situação, com qualquer equipe, e, contra todas as probabilidades, se destacar.
 
