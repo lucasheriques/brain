@@ -10,9 +10,9 @@ Acredite: é uma armadilha.
 
 Meu crescimento técnico? Parou no tempo. 
 
-Minha rotina de programação? Diminuiu drasticamente. 
+Minha rotina de programação? Diminuiu muito. 
 
-E problemas complexos de arquitetura? Quase inexistentes. 
+E problemas de arquitetura? Eram sempre os mesmos. 
 
 Estava a um passo de virar um gerente de produto. E olha, se é isso que você quer, ótimo, é uma carreira excelente também!
 
