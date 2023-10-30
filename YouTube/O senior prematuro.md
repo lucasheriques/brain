@@ -44,9 +44,9 @@ Cada organização tem sua própria estratégia para fazer programas. Não há u
 
 Você já se sentiu como o veterano do time, pensando que já viu tudo? E de repente, você muda de equipe e tudo é um território inexplorado novamente.
 
-Recomeçar é como... dar um mergulho em uma cachoeira gelada após um dia quente (esse ano que o diga). Revigora. Renova. E, claro, dá aquele choque inicial.
+Recomeçar é como... dar um mergulho em uma cachoeira gelada após um dia quente (esse ano que o diga). Revigora. Renova. Mas, no começo, é frio demais.
 
-Mas isso te reconecta com a sensação de ser o novato, de encarar desafios com uma perspectiva nova. Te traz humildade. E isso, meu amigo, vale ouro!
+Mas isso te reconecta com a sensação de ser o novato De encarar desafios com uma perspectiva nova. Te traz humildade. E isso é muito valioso.
 
 Se você se prende demais ao status de "sênior", ao sentimento de ser insubstituível, pode esquecer a arte de influenciar sem depender apenas do seu título.
 
