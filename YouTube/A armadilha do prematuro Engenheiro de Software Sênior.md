@@ -1,13 +1,14 @@
-**Em dois anos em uma única empresa, você realmente pode se chamar de sênior? Cuidado: pode ser uma armadilha, limitando o seu crescimento técnico. O verdadeiro engenheiro sênior não se define pelo tempo de carreira, mas pelas experiências acumuladas e pela capacidade de se adaptar e prosperar em qualquer ambiente. Apenas dois anos em uma empresa não é suficiente para você ser capaz de se adaptar em situações diferentes.**
+**TL;DR: Em dois anos em uma única empresa, você realmente pode se chamar de sênior? Cuidado: pode ser uma armadilha, limitando o seu crescimento técnico. O verdadeiro engenheiro sênior não se define pelo tempo de carreira, mas pelas experiências acumuladas e pela capacidade de se adaptar e prosperar em qualquer ambiente. Apenas dois anos em uma empresa não é suficiente para você ser capaz de se adaptar em situações diferentes.**
 
-Fiz um vídeo no YouTube (meu primeiro!) também, se você preferir assistir:
+Fiz um vídeo no YouTube (meu primeiro!) também, se você preferir assistir: 
 
 Esse conteúdo é altamente inspirado por um post da [Charity Majors](https://charity.wtf/2020/11/01/questionable-advice-the-trap-of-the-premature-senior/), que eu recomendo para todos. Ela graciosamente me deu permissão de usar o post dela como base para o vídeo.
 
 Inclusive, recomendo todo o conteúdo dela, cheio de pérolas.
-# Parte 1: Introdução
 
-Você realmente se considera sênior com apenas dois anos de experiência em um único emprego?
+---
+
+#### Você realmente se considera sênior com apenas dois anos de experiência em um único emprego?
 
 No meu primeiro emprego pós faculdade, mergulhei de cabeça em uma startup americana como o primeiro engenheiro do time. E adivinha? Virei a referência! Conhecia o sistema do início ao fim, estava em todas as reuniões importantes. Todo mundo vinha até mim com dúvidas. Ah, como eu me sentia especial!
 
@@ -23,9 +24,7 @@ Estava a um passo de virar um gerente de produto. E olha, se é isso que você q
 
 E, em vez de saciar essa sede, me vi atolado em reuniões intermináveis, entrevistas e cada vez mais distante do que eu realmente queria: a engenharia de software. Eu estava em uma posição de liderança, mas estava me afastando das minhas aspirações. Resolver problemas desafiantes. Lidar com times grandes. Chegar em staff+.
 
-# Parte 2: Analogia
-
-Vamos pensar em animais por um segundo.
+#### Vamos pensar em animais por um segundo.
 
 Imagine que você é um gatinho, o rei da sua casa. Você conhece todos os cantos, sabe onde estão os melhores lugares para tirar uma soneca e, claro, onde fica a comida. Todos te adoram, te mimam e você é o centro das atenções.
 
@@ -35,21 +34,19 @@ Ser o gatinho da casa é aconchegante. Você é o queridinho, todos te conhecem 
 
 Não nos tornamos "onças" apenas dominando a sala de estar. É aconchegante ser o rei da sala, mas... e se te soltarem na vastidão da floresta? Como você se viraria?
 
-Você se torna verdadeiramente uma "onça" quando sai da sua zona de conforto, enfrenta desafios maiores, explorar territórios desconhecidos e se prova no ambiente selvagem.
+Você se torna verdadeiramente uma "onça" quando sai da sua zona de conforto, enfrenta desafios maiores, explora territórios desconhecidos e se prova no ambiente selvagem.
 
-# Parte 3: Conclusão
-
-E adivinha? Numa empresa é bem parecido.
+#### E adivinha? Numa empresa é bem parecido.
 
 Cada organização tem sua própria estratégia para desenvolver softwares. Não há uma fórmula mágica universal. Existem apenas diferentes abordagens e compensações (tradeoffs). A parte difícil de verdade? Aprender a se adaptar a cada uma delas.
 
 Você já se sentiu como o veterano do time, pensando que já viu tudo? E de repente, você muda de equipe e tudo é um território inexplorado novamente. Recomeçar é como... dar um mergulho em uma cachoeira gelada após um dia quente (esse ano que o diga). Revigora. Renova. Mas, no começo, é frio demais.
 
-Mas isso te reconecta com a sensação de ser o novato De encarar desafios com uma perspectiva nova. Te traz humildade. E isso é muito valioso.
+Mas isso te reconecta com a sensação de ser o novato. De encarar desafios com uma perspectiva nova. Te traz humildade. E isso é muito valioso.
 
 Se você se prende demais ao status de "sênior", ao sentimento de ser insubstituível, pode esquecer a arte de influenciar sem depender apenas do seu título.
 
-E é exatamente essa jornada que estou vivendo. Deixei o que era familiar e me joguei no desconhecido. De um emprego de quase três anos para uma floresta nova. Pessoal novo, stack nova, um mundo completamente diferente. E aqui eu sigo, caminhando, e tentando me superar a cada passo.
+É exatamente essa jornada que estou vivendo. Deixei o que era familiar e me joguei no desconhecido. De um emprego de quase três anos para uma floresta nova. Pessoal novo, stack nova, um mundo completamente diferente. Aqui eu sigo, caminhando, e tentando me superar a cada passo.
 
 Entrar em uma nova equipe não é apenas sobre adaptação. É sobre contribuir para um ambiente onde até os novatos são valorizados, onde eles fazem mais do que só tarefas.
 
