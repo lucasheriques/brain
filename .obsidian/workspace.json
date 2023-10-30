@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Video Editing/General.md",
+                "file": "YouTube/A armadilha do prematuro Engenheiro de Software Sênior.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Video Editing/General.md",
+                "file": "YouTube/A armadilha do prematuro Engenheiro de Software Sênior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Video Editing/General.md",
+                "file": "YouTube/A armadilha do prematuro Engenheiro de Software Sênior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Video Editing/General.md"
+                "file": "YouTube/A armadilha do prematuro Engenheiro de Software Sênior.md"
               }
             }
           },
@@ -206,6 +206,9 @@
   },
   "active": "bbc02cc0ec5e00e3",
   "lastOpenFiles": [
+    "Airbnb SP.md",
+    "Video Editing/General.md",
+    "Video Editing/Tips for making the video.md",
     "Software Engineering/Career/Reading Backlog.md",
     "Why YOU Suck At Coding Interviews - From a Senior Engineer at Uber.md",
     "Software Engineering/Career/How To Write Better Code Faster As A Software Engineer.md",
@@ -230,9 +233,6 @@
     "Writing/React Server Components using Next vs Node + HTMX vs Golang + HTMX.md",
     "Writing/Choosing a GraphQL Backend Service.md",
     "Writing/About me.md",
-    "Writing/High-Leverage Career Skills.md",
-    "Writing/The bias against front end developers.md",
-    "Writing/Untitled.md",
     "Software Engineering/Golang",
     "YouTube",
     "Writing/Portuguese",
