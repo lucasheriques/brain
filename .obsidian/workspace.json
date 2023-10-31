@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YouTube/A armadilha do prematuro Engenheiro de Software Sênior.md",
+                "file": "YouTube/As empresas com os melhores salários do Brasil para devs.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YouTube/A armadilha do prematuro Engenheiro de Software Sênior.md",
+                "file": "YouTube/As empresas com os melhores salários do Brasil para devs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YouTube/A armadilha do prematuro Engenheiro de Software Sênior.md",
+                "file": "YouTube/As empresas com os melhores salários do Brasil para devs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YouTube/A armadilha do prematuro Engenheiro de Software Sênior.md"
+                "file": "YouTube/As empresas com os melhores salários do Brasil para devs.md"
               }
             }
           },
@@ -206,6 +206,10 @@
   },
   "active": "bbc02cc0ec5e00e3",
   "lastOpenFiles": [
+    "YouTube/A armadilha do prematuro Engenheiro de Software Sênior.md",
+    "YouTube/As empresas com os melhores salários do Brasil para devs.md",
+    "YouTube/Untitled",
+    "conflict-files-obsidian-git.md",
     "Airbnb SP.md",
     "Video Editing/General.md",
     "Video Editing/Tips for making the video.md",
@@ -230,9 +234,6 @@
     "Writing/Making sense of z-index.md",
     "Writing/Improving GraphQL performance.md",
     "Writing/psql error connection to server on socket PSQL.5432.md",
-    "Writing/React Server Components using Next vs Node + HTMX vs Golang + HTMX.md",
-    "Writing/Choosing a GraphQL Backend Service.md",
-    "Writing/About me.md",
     "Software Engineering/Golang",
     "YouTube",
     "Writing/Portuguese",
@@ -241,7 +242,6 @@
     "Projects",
     "Writing",
     "Software Engineering/React/Joy of React/Tools of the Trade",
-    "Software Engineering/React/Joy of React/Module 6 - Full Stack React",
     "Software Engineering/LLMs/Prompt Engineering for Devs/ChatGPT Prompt Engineering for Developers.canvas",
     "Software Engineering/Databases/MySQL/MySQL for Devs.canvas",
     "Images/react/server-side-rendering.png",

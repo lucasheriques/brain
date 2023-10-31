@@ -1,0 +1,1 @@
+Tem um site famoso, o [levels.fyi](https://www.levels.fyi/t/software-engineer/locations/brazil) onde as pessoas conseguem submeter seus salários de maneira anônima, sem todo o trambolho que é o Glassdoor.
